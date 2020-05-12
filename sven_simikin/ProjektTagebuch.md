@@ -52,8 +52,8 @@ __11.05.2020 - 17.05.2020__
 
 | Datum      | Tätigkeit                        | Dauer       | Zusatz                                                                                                               |
 | ---------- | -------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------- |
-|            |                                  |             |                                                                                                                      |
+| 12.05.2020 | Meeting mit der SGSE-Gruppe      | 60  Minuten | Es wurde über bis zum nächsten Meeting zu erledigende Dinge gesprochen und eine grobe Time-Line definiert.           |
 
-__Zeit ca. 0 Stunde(n)__
+__Zeit ca. 1 Stunde(n)__
 
-__Gesamte Zeit ca. 33.5 Stunde(n)__
+__Gesamte Zeit ca. 34.5 Stunde(n)__
