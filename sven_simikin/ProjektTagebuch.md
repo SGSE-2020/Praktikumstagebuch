@@ -54,7 +54,8 @@ __11.05.2020 - 17.05.2020__
 | ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 12.05.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Es wurde über bis zum nächsten Meeting zu erledigende Dinge gesprochen und eine grobe Time-Line definiert.              |
 | 12.05.2020 | Implementierung Authentifizierung | 120 Minuten | Authentifizierung wurde in Angular mit FireAuth realisiert und ein vollständiges User Session Management implementiert. |
+| 13.05.2020 | Anlegen Datenbanken/Dockerfiles   | 120 Minuten | Die notwendigen Datenbanken wurden angelegt und in entsprechende Dockerfiles/Docker-Compose Netzwerke eingebunden.      |
 
-__Zeit ca. 3 Stunde(n)__
+__Zeit ca. 5 Stunde(n)__
 
-__Gesamte Zeit ca. 36.5 Stunde(n)__
+__Gesamte Zeit ca. 38.5 Stunde(n)__
