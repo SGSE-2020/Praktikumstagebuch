@@ -41,7 +41,21 @@ __04.05.2020 - 10.05.2020__
 | 08.05.2020 | Bearbeitung des Pflichtenheftes  | 240 Minuten | Es wurden alle Anforderungen bezüglich der Erstellung der Schnittstellen für die interne Abgabe (08.05.2020) erfüllt.|
 | 09.05.2020 | Bearbeitung des Pflichtenheftes  | 180 Minuten | Mit der Bearbeitung der Softwarespezifikation wurde fortgefahren. Mockups und Schnittstellen wurden überarbeitet.    |
 | 09.05.2020 | Überprüfung der Spezifikationen  | 180 Minuten | Die Spezifikationen der Softwareprojekte wurden überprüft und es wurden relevante Issues auf GitHub erstellt.        |
+| 10.05.2020 | Abschluss Pflichtenheftes        | 120 Minuten | Die Bearbeitung des Pflichtenheftes wurde abgeschlossen und ein Präsentationskonzept für die Präsentation erstellt.  |
+| 10.05.2020 | Meeting mit der SGSE-Gruppe      | 60  Minuten | Es wurde über die Vorstellung der Spezifikation gesprochen und erneut über Messaging und Schnittstellen geredet.     |
 
-__Zeit ca. 13 Stunde(n)__
+__Zeit ca. 16 Stunde(n)__
 
-__Gesamte Zeit ca. 30.5 Stunde(n)__
+## Woche 4 
+
+__11.05.2020 - 17.05.2020__
+
+| Datum      | Tätigkeit                         | Dauer       | Zusatz                                                                                                                  |
+| ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 12.05.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Es wurde über bis zum nächsten Meeting zu erledigende Dinge gesprochen und eine grobe Time-Line definiert.              |
+| 12.05.2020 | Implementierung Authentifizierung | 120 Minuten | Authentifizierung wurde in Angular mit FireAuth realisiert und ein vollständiges User Session Management implementiert. |
+| 13.05.2020 | Anlegen Datenbanken/Dockerfiles   | 120 Minuten | Die notwendigen Datenbanken wurden angelegt und in entsprechende Dockerfiles/Docker-Compose Netzwerke eingebunden.      |
+
+__Zeit ca. 5 Stunde(n)__
+
+__Gesamte Zeit ca. 38.5 Stunde(n)__

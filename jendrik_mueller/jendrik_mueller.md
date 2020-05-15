@@ -38,9 +38,16 @@ __04.05.2020 - 10.05.2020__
 | 10.05.2020 | Abarbeiten der mir zugewiesenen Issues                       | 0.5h  |        |
 | 10.05.2020 | Teambesprechung zur Vorstellung der Spezifikation            | 1h    |        |
 
+## Woche 4
+
+__11.05.2020 - 17.05.2020__
+
+| Datum      | Tätigkeit       | Dauer | Zusatz |
+| ---------- | --------------- | ----- | ------ |
+| 12.05.2020 | Teambesprechung | 0.75h |        |
 
 
 
 
-__Gesamte Zeit ca 16.25 Stunden__ 
+__Gesamte Zeit ca 17.00 Stunden__ 
 
