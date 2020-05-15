@@ -57,8 +57,11 @@ __11.05.2020 - 17.05.2020__
 | ---------- | ------------------------------------------------------------ | ----- |
 | 11.05.2020 | Initiales Aufsetzen von NodeJS Backend und Angular Frontend  | 2,5 h |
 | 12.05.2020 | Teambesprechung - Gesamtteam                                 | 1,5h  |
-| 12.05.2020 | Initiale Umsetzung der Nutzer Authentifizierung und Verifizierung des Users. Anpassen der gRPC Funktionen. | 3h    |
+| 12.05.2020 | Initiale Umsetzung der Nutzer Authentifizierung und Verifizierung des Users im Backend. Anpassen der gRPC Funktionen. | 3h    |
+| 13.05.2020 | Umsetzung eines Klickdummies im Frontend mit ersten Authentifizierungsmodalen | 4h    |
+| 14.05.2020 | Umsetzung eines Rollenkonzeptes innerhalb der View, Registrierung, Anmeldung, Login inklusive Nutzerverifizierung im Backend abschließen | 3h    |
+| 15.05.2020 | Vorstellung gRPC und Protodateien anhand eines Beispiels für die anderen Studierenden | 0,25h |
 
 
 
-__Gesamte Zeit 28,25 Stunden__ 
+__Gesamte Zeit 35,5 Stunden__ 
