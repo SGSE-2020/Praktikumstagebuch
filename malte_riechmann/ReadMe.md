@@ -44,4 +44,11 @@ __04.05.2020 - 10.04.2020__
 | 10.05.2020 | Spezifikation aufschreiben | 1h ||
 __Gesamte Zeit ca 13h Stunden__ 
 
+| Datum      | Tätigkeit                                     | Dauer | Zusatz |
+| ---------- | --------------------------------------------- | ----- | ------ |
+| 12.05.2020 | Gruppen Meeting                                          | 1,5h  |        |
+| 15.05.2020 | gRPC Protodatei erstellen und Prototyp backend aufsetzen | 2,5h  |        |
+|            |                                                          |       ||
+__Gesamte Zeit ca 4h Stunden__ 
+
 __--> Gesamte Zeit ca 23h Stunden__ 
