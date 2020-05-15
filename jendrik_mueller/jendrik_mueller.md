@@ -42,12 +42,13 @@ __04.05.2020 - 10.05.2020__
 
 __11.05.2020 - 17.05.2020__
 
-| Datum      | Tätigkeit       | Dauer | Zusatz |
-| ---------- | --------------- | ----- | ------ |
-| 12.05.2020 | Teambesprechung | 0.75h |        |
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 12.05.2020 | Teambesprechung                                              | 0.75h |        |
+| 15.05.2020 | Überblick verschaffen über Angular und einarbeiten in django. Einrichten eines Projekes für Server und Client. Vorstellung der Verwendung von gRPC in Node.js und der protoc Dateien von Pia Schreiner | 2h    |        |
 
 
 
 
-__Gesamte Zeit ca 17.00 Stunden__ 
+__Gesamte Zeit ca 19.00 Stunden__ 
 
