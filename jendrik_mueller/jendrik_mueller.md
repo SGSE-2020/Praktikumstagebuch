@@ -38,9 +38,20 @@ __04.05.2020 - 10.05.2020__
 | 10.05.2020 | Abarbeiten der mir zugewiesenen Issues                       | 0.5h  |        |
 | 10.05.2020 | Teambesprechung zur Vorstellung der Spezifikation            | 1h    |        |
 
+## Woche 4
+
+__11.05.2020 - 17.05.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 12.05.2020 | Teambesprechung                                              | 0.75h |        |
+| 15.05.2020 | Überblick verschaffen über Angular und einarbeiten in django. Einrichten eines Projekes für Server und Client. Vorstellung der Verwendung von gRPC in Node.js und der protoc Dateien von Pia Schreiner | 2h    |        |
+| 16.05.2020 | Einlesen in die Verwendung von GraphQL in Angular mit apollo und erstellen eines TestClients. Einlesen in die Verwendung von grpc in django. Probleme bei der Verwendung von Django außerhalb einer Virtuellen umgebung -> verwendung von Anaconda notwendig | 1.75h |        |
+| 17.05.2020 | Einrichten von postgreSQL auf ElephantSQL und installation von pgAdmin 4. Verbinden der Datenbank mit Django. Erstellen eines grpc test services in Django. Momentan problem beim Abrufen von Daten | 1.5h  |        |
+| 17.05.2020 | Recherche zum Einsatz von grpc in Django. Allerdings gibt es hier kaum bis keine Dokumentation und grpc und Django scheinen nicht wirklich kompatibel zu sein -> wechsel zu node.j möglicherweise sinvoll. | 1h    |        |
 
 
 
 
-__Gesamte Zeit ca 16.25 Stunden__ 
+__Gesamte Zeit ca 23.25 Stunden__ 
 

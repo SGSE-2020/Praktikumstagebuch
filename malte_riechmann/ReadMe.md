@@ -44,4 +44,13 @@ __04.05.2020 - 10.04.2020__
 | 10.05.2020 | Spezifikation aufschreiben | 1h ||
 __Gesamte Zeit ca 13h Stunden__ 
 
-__--> Gesamte Zeit ca 23h Stunden__ 
+| Datum      | Tätigkeit                                     | Dauer | Zusatz |
+| ---------- | --------------------------------------------- | ----- | ------ |
+| 12.05.2020 | Gruppen Meeting                                          | 1,5h  |        |
+| 15.05.2020 | gRPC Protodatei erstellen und Prototyp backend aufsetzen | 2,5h  |        |
+| 16.05.2020 | Rest Schnittstelle (Ruby on Rails) mit gRPC verbinden | 2h |Über Ruby on Rails hat die Kombination nicht funktionert|
+| 17.05.2020 | Rest Schnittstelle (Sinatra) mit gRPC verbinden | 2h ||
+| 17.05.2020 | Prototyp für alle GET Requests | 1,5h ||
+__Gesamte Zeit ca 9,5h Stunden__ 
+
+__--> Gesamte Zeit ca 32,5h Stunden__ 
