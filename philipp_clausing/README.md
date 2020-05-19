@@ -16,6 +16,8 @@ __27.04.2020 - 01.05.2020__
 | Datum | Tätigkeit | Dauer | Zusatz |
 | ----- | --------- | ----- | ------ |
 | 28.04 | User Stories für Microservice geschrieben | 00:30h | |
+| 28.04 | Besprechung mit anderen Studierenden | 01:00h | |
+| 28.04 | Spezifikation schreiben | 01:00h | |
 |       |           |       |        |
 
 
@@ -30,4 +32,4 @@ __DD.MM.JJJJ - DD.MM.JJJJ__
 
 
 
-__Gesamte Zeit ca. 01:45 Stunden__ 
+__Gesamte Zeit ca. 04:15 Stunden__ 
