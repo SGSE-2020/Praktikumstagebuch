@@ -65,7 +65,8 @@ __18.05.2020 - 24.05.2020__
 | Datum      | Tätigkeit                         | Dauer       | Zusatz                                                                                                                  |
 | ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 19.05.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Es wurde über den bisherigen Stand der Entwicklung gesprochen und das weitere Vorgehen der einzelnen Teams besprochen.  |
+| 20.05.2020 | Meeting RabbitMQ Spezifikation    | 180 Minuten | RabbitMQ wurde spezifiziert, erforderliche felder definiert und eine RabbitMQ instanz aufgesetzt.                       |
 
-__Zeit ca. 1 Stunde(n)__
+__Zeit ca. 4 Stunde(n)__
 
-__Gesamte Zeit ca. 42.5 Stunde(n)__
+__Gesamte Zeit ca. 45.5 Stunde(n)__
