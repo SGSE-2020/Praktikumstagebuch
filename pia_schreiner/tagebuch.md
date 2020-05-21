@@ -76,7 +76,8 @@ __18.05.2020 - 24.05.2020__
 | 20.05.2020 | Fertigstellung der Dockerisierung aller Komponenten mittels Compose | 4 h   |
 | 21.05.2020 | Fertigstellen der Datenbankaktionen für Nutzer und Aushänge. Einrichten aller gRPC Schnittstellen mit Beispiel Rückgaben. | 2h    |
 | 21.05.2020 | Überarbeitung der Seite für das zentrale Portal              | 0,5h  |
+| 21.05.2020 | Frontendpage für Nutzeraccount Management angelegt           | 2h    |
 
 
 
-Gesamte Zeit 48 Stunden__ 
+__Gesamte Zeit 50 Stunden__ 
