@@ -64,4 +64,19 @@ __11.05.2020 - 17.05.2020__
 
 
 
-__Gesamte Zeit 35,5 Stunden__ 
+## Woche 5 
+
+__18.05.2020 - 24.05.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer |
+| ---------- | ------------------------------------------------------------ | ----- |
+| 18.05.2020 | Einrichten einer PostgreSQL DB mit Docker Compose, Einrichten der Datenbank mit ORM mit Hilfe von Sequelize | 3h    |
+| 19.05.2020 | Teambesprechung - Gesamtteam                                 | 1,5h  |
+| 19.05.2020 | Registrieren, Aktualisieren und Deaktivieren eines Nutzers in der Datenbank | 1,5h  |
+| 20.05.2020 | Fertigstellung der Dockerisierung aller Komponenten mittels Compose | 4 h   |
+| 21.05.2020 | Fertigstellen der Datenbankaktionen für Nutzer und Aushänge. Einrichten aller gRPC Schnittstellen mit Beispiel Rückgaben. | 2h    |
+| 21.05.2020 | Überarbeitung der Seite für das zentrale Portal              | 0,5h  |
+
+
+
+Gesamte Zeit 48 Stunden__ 
