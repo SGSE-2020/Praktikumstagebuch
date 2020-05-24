@@ -36,9 +36,20 @@ __04.05.2020 - 10.05.2020__
 
 __11.05.2020 - 17.05.2020__
 
+| Datum | Tätigkeit                     | Dauer | Zusatz |
+| ----- | ----------------------------- | ----- | ------ |
+| 12.05 | Allgemeine Teambesprechung    | 1:00h |        |
+| 14.05 | GraphQL Einarbeitung          | 3:00h |        |
+| 15.05 | gRPC Einleitung               | 0:15h |        |
+| 17.05 | GitHub Kanban Board gestartet | 0:15h |        |
+
+## Woche 5
+
+__18.05.2020 - 24.05.2020__
+
 | Datum | Tätigkeit                  | Dauer | Zusatz |
-|-------|----------------------------|-------|--------|
-| 12.05 | Allgemeine Teambesprechung | 1:00h |        |
+| ----- | -------------------------- | ----- | ------ |
+| 19.05 | Allgemeine Teambesprechung | 1:00h |        |
 |       |                            |       |        |
 |       |                            |       |        |
 |       |                            |       |        |
@@ -53,4 +64,4 @@ __DD.MM.JJJJ - DD.MM.JJJJ__
 |       |           |       |        |
 
 
-__Gesamte Zeit ca. 13:30 Stunden__ 
+__Gesamte Zeit ca. 18:00 Stunden__ 

@@ -45,7 +45,6 @@ __04.05.2020 - 10.05.2020__
 | 10.05.2020 | Meeting mit der SGSE-Gruppe      | 60  Minuten | Es wurde über die Vorstellung der Spezifikation gesprochen und erneut über Messaging und Schnittstellen geredet.     |
 
 __Zeit ca. 16 Stunde(n)__
-
 ## Woche 4 
 
 __11.05.2020 - 17.05.2020__
@@ -55,7 +54,19 @@ __11.05.2020 - 17.05.2020__
 | 12.05.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Es wurde über bis zum nächsten Meeting zu erledigende Dinge gesprochen und eine grobe Time-Line definiert.              |
 | 12.05.2020 | Implementierung Authentifizierung | 120 Minuten | Authentifizierung wurde in Angular mit FireAuth realisiert und ein vollständiges User Session Management implementiert. |
 | 13.05.2020 | Anlegen Datenbanken/Dockerfiles   | 120 Minuten | Die notwendigen Datenbanken wurden angelegt und in entsprechende Dockerfiles/Docker-Compose Netzwerke eingebunden.      |
+| 15.05.2020 | Implementieren Backend            | 120 Minuten | Das Backend-Projekt wurde angelegt und grundlegende Kommunikation mit dem Frontend hergestellt.                         |
+| 16.05.2020 | Anlegen Protocol Buffer           | 60  Minuten | Die gRPC Protocol Buffer Datei wurde angelegt und damit die Schnittstellen des Services abgebildet.                     |
 
-__Zeit ca. 5 Stunde(n)__
+__Zeit ca. 8 Stunde(n)__
+## Woche 5 
 
-__Gesamte Zeit ca. 38.5 Stunde(n)__
+__18.05.2020 - 24.05.2020__
+
+| Datum      | Tätigkeit                         | Dauer       | Zusatz                                                                                                                  |
+| ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 19.05.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Es wurde über den bisherigen Stand der Entwicklung gesprochen und das weitere Vorgehen der einzelnen Teams besprochen.  |
+| 20.05.2020 | Meeting RabbitMQ Spezifikation    | 180 Minuten | RabbitMQ wurde spezifiziert, erforderliche felder definiert und eine RabbitMQ instanz aufgesetzt.                       |
+
+__Zeit ca. 4 Stunde(n)__
+
+__Gesamte Zeit ca. 45.5 Stunde(n)__
