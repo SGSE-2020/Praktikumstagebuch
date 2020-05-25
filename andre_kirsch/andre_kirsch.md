@@ -60,7 +60,21 @@ __18.05.2020 - 24.05.2020__
 | ----- | --------------- | ----- | ------ |
 | 19.05 | Teambesprechung | 1:30h |        |
 | 19.05 | GKE ausprobieren mit Alex | 1:30h |        |
+| 20.05 | Docker-Compose Datei für Microservice erstellt | 1:00h | |
+| 22.05 | Backend: Verbinden und Erstellen der DB | 1:00h | |
+| 23.05 | CI und Infrastruktur | 2:00h | |
+| 24.05 | CI und GKE | 1:30h | |
+
+Wöchentliche Zeit: 8:30 Stunden
+
+## Woche 5 
+
+__25.05.2020 - 31.05.2020__
+
+| Datum | Tätigkeit  | Dauer | Zusatz |
+| ----- | ---------- | ----- | ------ |
+| 25.05 | CI und GKE | 3:00h |        |
 
 Wöchentliche Zeit: 3:00 Stunden
 
-__Gesamte Zeit ca 20:30 Stunden__ 
+__Gesamte Zeit ca 29:00 Stunden__ 
