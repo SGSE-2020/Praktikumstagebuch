@@ -63,8 +63,39 @@
 | 11.05  | Präsentation                    | 1,5 h |        |
 | 12.05. | Gruppen-Meeting                 | 1,5 h |        |
 | 13.05. | Literaturrecherche Ausarbeitung | 1 h   |        |
+| 14.05. | Literaturrecherche Ausarbeitung | 1,5 h |        |
+| 15.05. | Literaturrecherche Ausarbeitung | 2 h   |        |
+| 16.05. | Literaturrecherche Ausarbeitung | 1,5 h |        |
+|        |                                 | 9 h   |        |
 
 
+
+## Woche 5
+
+18.05. - 24.05.2020
+
+| Datum  | Tätigkeit                         | Dauer | Zusatz                  |
+| ------ | --------------------------------- | ----- | ----------------------- |
+| 18.05. | Präsentation                      | 1,5 h |                         |
+| 19.05. | Frontend-Welcome-Screen umsetzung | 3 h   | Einarbeitung minicss    |
+| 19.05. | Literaturrecherche Ausarbeitung   | 2 h   |                         |
+| 19.05. | Infrastrukurplanung               | 1 h   | Erstellen der Übersicht |
+| 19.05. | Gruppen-Meeting                   | 1,5 h |                         |
+| 21.05. | Literaturrecherche Ausarbeitung   | 1,5 h |                         |
+| 22.05. | Docker Support für Andre Matutat  | 1,5 h | Scala App dockerisieren |
+| 22.05. | Login mit Firebase im Frontend    | 4 h   |                         |
+| 23.05. | Infrastruktur+CI/CD Team Meeting  | 1,5 h |                         |
+| 23.05. | Infrastruktur+CI/CD Team Meeting  | 1,5 h |                         |
+|        |                                   | 19 h  |                         |
+
+## Woche 6
+
+25.05. - 31.05.2020
+
+| Datum | Tätigkeit | Dauer | Zusatz |
+| ----- | --------- | ----- | ------ |
+|       |           |       |        |
+|       |           |       |        |
 
 
 

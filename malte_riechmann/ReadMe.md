@@ -44,6 +44,8 @@ __04.05.2020 - 10.04.2020__
 | 10.05.2020 | Spezifikation aufschreiben | 1h ||
 __Gesamte Zeit ca 13h Stunden__ 
 
+## Woche 4
+
 | Datum      | Tätigkeit                                     | Dauer | Zusatz |
 | ---------- | --------------------------------------------- | ----- | ------ |
 | 12.05.2020 | Gruppen Meeting                                          | 1,5h  |        |
@@ -53,4 +55,14 @@ __Gesamte Zeit ca 13h Stunden__
 | 17.05.2020 | Prototyp für alle GET Requests | 1,5h ||
 __Gesamte Zeit ca 9,5h Stunden__ 
 
-__--> Gesamte Zeit ca 32,5h Stunden__ 
+# Woche 5
+
+| Datum      | Tätigkeit                                     | Dauer | Zusatz |
+| ---------- | --------------------------------------------- | ----- | ------ |
+| 18.05.2020 | In Vue einarbeiten und Frontend aufsetze | 6h    |        |
+| 20.02.2020 | Rabbit-MQ | 2,5h |        |
+| 22.05.2020 | Dockerisierung und Datenbank anlegen | 6h |        |
+| 23.05.2020 | Beispieldaten und erste Abfragen | 2h |        |
+__Gesamte Zeit ca 16,5h Stunden__ 
+
+__--> Gesamte Zeit ca 49h Stunden__ 
