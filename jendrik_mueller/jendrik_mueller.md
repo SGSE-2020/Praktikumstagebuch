@@ -50,8 +50,29 @@ __11.05.2020 - 17.05.2020__
 | 17.05.2020 | Einrichten von postgreSQL auf ElephantSQL und installation von pgAdmin 4. Verbinden der Datenbank mit Django. Erstellen eines grpc test services in Django. Momentan problem beim Abrufen von Daten | 1.5h  |        |
 | 17.05.2020 | Recherche zum Einsatz von grpc in Django. Allerdings gibt es hier kaum bis keine Dokumentation und grpc und Django scheinen nicht wirklich kompatibel zu sein -> wechsel zu node.j möglicherweise sinvoll. | 1h    |        |
 
+## Woche 5
 
+__18.05.2020 - 24.05.2020__
 
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 18.05.2020 | Anpassung der Spezifikation. Implemantation eines grpc Services in node.js. Die Funktionalität konnte mit [grpcc](https://github.com/njpatel/grpcc) manuell suchergestellt werden. | 1.75h |        |
+| 19.05.2020 | Teambesprechung                                              | 1.25h |        |
+| 20.05.2020 | Einrichetn einer gRPC schnittstelle. Einrichten eines GraphQl servers mit express und arbeiten am graphQl Client | 3h    |        |
+| 21.05.2020 | Verwendung von Http methoden, da es Probleme mit GraphQl gab. Dabei zeignet sich probleme bei CORS, die es auch bei GraphQl gegeben haben könnte. Für die Http Methoden konnte dies behoben werden | 1h    |        |
+| 22.05.2020 | Lokale installation von Docker und Postgres, sowie erstellen der Dockerfiles | 0.5h  |        |
+| 23.05.2020 | Arbeiten an der CD nach GKE mit Tim, Andre Kirsch und Alexander | 2h    |        |
+| 24.05.2020 | Weiterarbeiten an der CD nach GKE mit Tim, Andre Kirsch und Alexander | 1.5h  |        |
 
-__Gesamte Zeit ca 23.25 Stunden__ 
+## Woche 5
+
+__25.05.2020 - 31.05.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 25.05.2020 | Weiterarbeiten an der CD nach GKE mit Tim, Andre Kirsch und Alexander | 3h    |        |
+| 26.05.2020 | Teambesprechung                                              | 1h    |        |
+| 30.05.2020 | Erstellen einer Navigationsleiste mit Bootstrap und einrichten der Routen in Angular | 2h    |        |
+
+__Gesamte Zeit ca 40.25 Stunden__ 
 
