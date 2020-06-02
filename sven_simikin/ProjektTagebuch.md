@@ -66,7 +66,18 @@ __18.05.2020 - 24.05.2020__
 | ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 19.05.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Es wurde über den bisherigen Stand der Entwicklung gesprochen und das weitere Vorgehen der einzelnen Teams besprochen.  |
 | 20.05.2020 | Meeting RabbitMQ Spezifikation    | 180 Minuten | RabbitMQ wurde spezifiziert, erforderliche felder definiert und eine RabbitMQ instanz aufgesetzt.                       |
+| 22.05.2020 | Test erstellung                   | 180 Minuten | Für das Angular-Frontend wurden testfälle für die Integrationstestumgebung erstellt.                                    |
 
-__Zeit ca. 4 Stunde(n)__
+__Zeit ca. 7 Stunde(n)__
+## Woche 6
 
-__Gesamte Zeit ca. 45.5 Stunde(n)__
+__25.05.2020 - 31.05.2020__
+
+| Datum      | Tätigkeit                         | Dauer       | Zusatz                                                                                                                  |
+| ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 26.05.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Die Ergebnisse der letzten Woche wurden vorgestellt und das weitere Vorgehen wurde besprochen.                          |
+| 27.05.2020 | Abschluss Containerisierung       | 60  Minuten | Die Arbeiten für die Docker Containerisierung und Docker-Compose erstellung wurden abgeschlossen.                       |
+
+__Zeit ca. 2 Stunde(n)__
+
+__Gesamte Zeit ca. 50.5 Stunde(n)__
