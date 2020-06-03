@@ -72,7 +72,8 @@ __01.06.2020 - 07.06.2020__
 
 | Datum | Tätigkeit                  | Dauer | Zusatz |
 |-------|----------------------------|-------|--------|
-| 02.06 | Allgemeine Teambesprechung | ?     |        |
+| 02.06 | Allgemeine Teambesprechung | 0:45h |        |
+| 02.06 | MS Logo & Banner Design    | 1:00h |        |
 |       |                            |       |        |
 
 ## Woche n
@@ -85,4 +86,4 @@ __DD.MM.JJJJ - DD.MM.JJJJ__
 |       |           |       |        |
 
 
-__Gesamte Zeit ca. 26:30 Stunden__ 
+__Gesamte Zeit ca. 27:30 Stunden__ 
