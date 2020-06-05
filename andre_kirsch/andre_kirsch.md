@@ -71,10 +71,26 @@ Wöchentliche Zeit: 8:30 Stunden
 
 __25.05.2020 - 31.05.2020__
 
-| Datum | Tätigkeit  | Dauer | Zusatz |
-| ----- | ---------- | ----- | ------ |
-| 25.05 | CI und GKE | 3:00h |        |
+| Datum | Tätigkeit                            | Dauer | Zusatz |
+| ----- | ------------------------------------ | ----- | ------ |
+| 25.05 | CI und GKE                           | 3:00h |        |
+| 26.05 | Teambesprechung                      | 0:30h |        |
+| 28.05 | gRPC Route und Firebase eingerichtet | 2:00h |        |
 
-Wöchentliche Zeit: 3:00 Stunden
+Wöchentliche Zeit: 5:30 Stunden
 
-__Gesamte Zeit ca 29:00 Stunden__ 
+## Woche 6 
+
+__01.06.2020 - 07.06.2020__
+
+| Datum | Tätigkeit                                                    | Dauer | Zusatz |
+| ----- | ------------------------------------------------------------ | ----- | ------ |
+| 01.06 | Kubernetes: Kommunikation zwischen Pods und Ingress austesten | 1:30h |        |
+| 02.06 | Kubernetes und CI                                            | 2:30h |        |
+| 04.06 | Kubernetes Ingress versuchen einzurichten                    | 2:30h |        |
+| 04.06 | Arbeiten an Frontend                                         | 1:30h |        |
+| 05.06 | Kubernetes einrichten mittlerweile ohne Ingress              | 5:30h |        |
+
+Wöchentliche Zeit: 13:30 Stunden
+
+__Gesamte Zeit ca 45:00 Stunden__ 
