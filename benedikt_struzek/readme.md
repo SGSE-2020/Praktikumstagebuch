@@ -6,8 +6,8 @@ __20.04.2020 - 26.04.2020__
 
 | Datum | Tätigkeit                          | Dauer | Zusatz        |
 |-------|------------------------------------|-------|---------------|
-| 21.04 | Brainstorming eigener Microservice | 0:45h |               |
 | 21.04 | Allgemeine Teambesprechung         | 1:15h |               |
+| 21.04 | Brainstorming eigener Microservice | 0:45h |               |
 | 22.04 | Auth Besprechung                   | 0:45h | mit Auth Team |
 | 24.04 | Evaluation Firebase Auth           | 1:00h |               |
 
@@ -17,9 +17,9 @@ __27.04.2020 - 03.05.2020__
 
 | Datum | Tätigkeit                  | Dauer | Zusatz |
 |-------|----------------------------|-------|--------|
-| 28.04 | User Stories Entwurf       | 0:30h |        |
-| 28.04 | Allgemeine Teambesprechung | 1:15h |        |
 | 02.05 | Use Cases Entwurf          | 1:30h |        |
+| 28.04 | Allgemeine Teambesprechung | 1:15h |        |
+| 28.04 | User Stories Entwurf       | 0:30h |        |
 
 ## Woche 3
 
@@ -27,8 +27,8 @@ __04.05.2020 - 10.05.2020__
 
 | Datum | Tätigkeit                        | Dauer | Zusatz        |
 |-------|----------------------------------|-------|---------------|
-| 05.05 | Auth Besprechung                 | 0:15h | mit Auth Team |
 | 05.05 | Allgemeine Teambesprechung       | 1:15h |               |
+| 05.05 | Auth Besprechung                 | 0:15h | mit Auth Team |
 | 08.05 | Spezifikationen v1 erstellen     | 3:00h |               |
 | 10.05 | Teambesprechung Spezifikattionen | 1:00h |               |
 
@@ -37,7 +37,7 @@ __04.05.2020 - 10.05.2020__
 __11.05.2020 - 17.05.2020__
 
 | Datum | Tätigkeit                     | Dauer | Zusatz |
-| ----- | ----------------------------- | ----- | ------ |
+|-------|-------------------------------|-------|--------|
 | 12.05 | Allgemeine Teambesprechung    | 1:00h |        |
 | 14.05 | GraphQL Einarbeitung          | 3:00h |        |
 | 15.05 | gRPC Einleitung               | 0:15h |        |
@@ -47,11 +47,33 @@ __11.05.2020 - 17.05.2020__
 
 __18.05.2020 - 24.05.2020__
 
+| Datum | Tätigkeit                             | Dauer | Zusatz |
+|-------|---------------------------------------|-------|--------|
+| 19.05 | Allgemeine Teambesprechung            | 1:00h |        |
+| 21.05 | Containerization added to subprojects | 1:30h |        |
+| 21.05 | gRPC Implementierungsbeginn API       | 3:00h |        |
+
+**Vorbereitung des Vortrags und der Ausarbeitung für den 25.05**
+
+## Woche 6
+
+__25.05.2020 - 31.05.2020__
+
 | Datum | Tätigkeit                  | Dauer | Zusatz |
-| ----- | -------------------------- | ----- | ------ |
-| 19.05 | Allgemeine Teambesprechung | 1:00h |        |
-|       |                            |       |        |
-|       |                            |       |        |
+|-------|----------------------------|-------|--------|
+| 26.05 | Allgemeine Teambesprechung | 1:00h |        |
+| 27.05 | Relative API Calls added   | 1:30h |        |
+| 29.05 | Local dev proxy setup      | 0:30h |        |
+| 29.05 | Vue.js fetch data from API | 1:00h |        |
+
+## Woche 7
+
+__01.06.2020 - 07.06.2020__
+
+| Datum | Tätigkeit                  | Dauer | Zusatz |
+|-------|----------------------------|-------|--------|
+| 02.06 | Allgemeine Teambesprechung | 0:45h |        |
+| 02.06 | MS Logo & Banner Design    | 1:00h |        |
 |       |                            |       |        |
 
 ## Woche n
@@ -64,4 +86,4 @@ __DD.MM.JJJJ - DD.MM.JJJJ__
 |       |           |       |        |
 
 
-__Gesamte Zeit ca. 18:00 Stunden__ 
+__Gesamte Zeit ca. 27:30 Stunden__ 
