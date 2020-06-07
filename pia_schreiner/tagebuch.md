@@ -98,12 +98,17 @@ __25.05.2020 - 31.05.2020__
 
 __01.06.2020 - 07.06.2020__
 
-| Datum | Tätigkeit | Dauer |
-| ----- | --------- | ----- |
-|       |           |       |
+| Datum      | Tätigkeit                                                    | Dauer |
+| ---------- | ------------------------------------------------------------ | ----- |
+| 02.06.2020 | Teambesprechung - Gesamtteam                                 | 1 h   |
+| 05.06.2020 | Teambesprechung - Gesamtteam                                 | 0,5 h |
+| 05.06.2020 | Refactoring für CI, Einrichten CI Pipeline                   | 1 h   |
+| 06.06.2020 | Erstellung exemplarischer Testfall mit Test Workflow         | 1 h   |
+| 06.06.2020 | Kleine Änderungen für das Deployment innerhalb des Portals   | 1 h   |
+| 07.06.2020 | Frontend vorbereiten für Aushänge und Fundgegenstände. Füllen mit Dummydaten | 3 h   |
 
 
 
 
 
-__Gesamte Zeit 55 Stunden__ 
+__Gesamte Zeit 62,5 Stunden__ 
