@@ -79,8 +79,15 @@ __Gesamte Zeit ca. 9,5h__
 
 ## Woche 7
 
-| Datum | Tätigkeit | Dauer | Zusatz |
-| ----- | --------- | ----- | ------ |
-|       |           |       |        |
+| Datum      | Tätigkeit                                           | Dauer | Zusatz |
+| ---------- | --------------------------------------------------- | ----- | ------ |
+| 02.06.2020 | Routen für Request Trainingsplan über REST und GRPC | 3h    |        |
+| 02.06.2020 | Gruppen Meeting                                     | 1,5h  |        |
+| 04.06.2020 | CI und Firebase                                     | 3h    |        |
+| 05.06.2020 | Initiales Test Setup                                | 2,5h  |        |
+| 06.07.2020 | Implementierung der Tests                           | 3h    |        |
+| 07.07.2020 | Forbidden Fehler im Backend gefixt                  | 4h    |        |
 
-__--> Gesamte Zeit ca 58,5h Stunden__ 
+__Gesamte Zeit ca. 17h__
+
+__--> Gesamte Zeit ca 75,5h Stunden__ 
