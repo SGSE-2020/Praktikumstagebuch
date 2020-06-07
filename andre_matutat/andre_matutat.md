@@ -95,13 +95,54 @@ __25.05.2020 - 31.05.2020__
 | ----- | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
 |25.05|gRPC lauffähige gemacht|0.5h|Play 2.8.2 nutzt Akka 2.6.5 grpc-runtime 0.8.2 verwendet Akka 2.6.4 und ist inkompatibel mit 2.6.5 => Akka auf 2.6.4 forcieren ```libraryDependencies += "com.typesafe.akka" %% "akka-discovery" % "2.6.5"```|
 |26.05|grpc und REST kombiniert|2h|Es können jetzt sowohl REST als auch gRPC Anfragen auf den selben Port gestellt  werden|
+|26.05|Teambesprechung|1.5h||
+|26.05|Spezifikation anpassen|1h|ERD Modell, Unstimmigkeiten behoben, veraltete Informationen aktualisiert.|
+|26.05|Backend Dockerisiert|1.5h||
+|27.05|Zentralesportal dockerisiert|0.25h||
+|28.05|Datenbankskript erstellt und in docker-compose eingebunden|3h|Skript wird nur ausgeführt wenn der var/ Ordner im Container nicht exisitert. ggf. Container starten, rm var - r -> Container stürzt ab, neu starten -> Skript wird ausgeführt|
+|29.05|Versucht im Backend Daten aus der DB abzufragen|1.5h|Connection Refused.|
+|29.05|Versucht JSON-Files in Scala.js zu parsen|1h|Object -> JSON geht, JSON-> Object noch nicht.|
+|29.05|Home-Page und Article-Page erstellt|3h|CSS fehlt, teilweise werden Eingaben noch nicht aktualisiert (Review, Anzahl der Artikel die gekauft werden wollen etc.)|
+|29.05|Lager-Page erstellt|0.5h|CSS fehlt|
+|30.05|Alle Dummy Pages erstellt|5h|Es fehlt: CSS, Abfragen an die DB, Funktionalitäten teilweise noch verbuggt|
+|30.05|ein paar Funktionalitäten Implementiert, ein wenig css gemacht|1h|LogOut passt jetzt die Seite. Suchleisten filtern jetzt die Ergebnisse (dummy daten) ohne die komplette Seite neu zu laden. Buttons funktionieren jetzt auch nachdem sie neugeladen wurden.|
+|31.05|Refactore Frontend-Code|1.5h||
+
+Gesamt 24.25h 
+
+## Woche 7 
+
+__01.06.2020 - 07.06.2020__
+
+| Datum | Tätigkeit                                                    | Dauer | Zusatz                                                       |
+| ----- | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
+|01.06|Einkaufswagen zur HashMap umgebaut|1h||
+|01.06|Fehler behoben, durch den nur die Startwerte von Textfelder o.ä gelesen wurden|1h|Um aktuelle Werte zu bekommen, DOM-Element per JQuery aufrufen.|
+|02.06|Frontend Dummy fertiggestellt|1h|Alle Funktionen sind dummy artig implementiert. Dummy Daten müssen jetzt durch Anbindung an das Backend ersetzt werden|
+|04.06|Versucht Integrationstest in Scala.js zu schreiben|1h|Tests können compliliert werden, werden aber nicht mit *sbt test* ausgeführt.|
+|04.06|Projekt für CI vorbereitet|0.5h||
+| 06.06 | GET Anfragen an das Backend eingebunden. Ausgabe der Antwort nur auf der Shell | 1h | Die Antworten müssen noch korrekt geparsed werden. |
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 |||||
 |||||
 |||||
 |||||
 
 
+__Gesamte Zeit __
 
-
-__Gesamte Zeit ca tbd Stunden__ 
+__ tbd Stunden__ 
 
