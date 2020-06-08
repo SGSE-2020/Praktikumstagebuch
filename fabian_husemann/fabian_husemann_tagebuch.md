@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Woche 1 
 
 __20.04.2020 - 26.04.2020__
@@ -43,7 +45,7 @@ __11.05.2020 - 17.05.2020__
 | 12.05.2020 | Besprechung       | 1.5 h |        |
 | 17.05.2020 | Node.js aufsetzen | 4 h   |        |
 
-## Woche 4 
+## Woche 5
 
 __18.05.2020 - 24.05.2020__
 
@@ -51,6 +53,19 @@ __18.05.2020 - 24.05.2020__
 | ---------- | -------------------------------------- | ----- | ------ |
 | 19.05.2020 | proto-Dateien und Kanban Board anlegen | 1 h   |        |
 | 19.05.2020 | Besprechung                            | 1.5 h |        |
+| 23.05.2020 | Frontend aufsetzen                     | 2h    |        |
+| 24.05.2020 | Frontend erweitern                     | 2h    |        |
+
+## Woche 6 
+
+__25.05.2020 - 31.05.2020__
+
+| Datum      | Tätigkeit                     | Dauer | Zusatz |
+| ---------- | ----------------------------- | ----- | ------ |
+| 26.05.2020 | Besprechung                   | 0.5 h |        |
+| 28.05.2020 | gRPC und Firebase im Frontend | 4 h   |        |
+|            |                               |       |        |
+|            |                               |       |        |
 
 
-__Gesamte Zeit ca 24 Stunden 0 Minuten__ 
+__Gesamte Zeit ca 32 Stunden 30 Minuten__ 
