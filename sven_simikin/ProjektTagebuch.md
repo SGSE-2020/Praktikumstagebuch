@@ -79,5 +79,18 @@ __25.05.2020 - 31.05.2020__
 | 27.05.2020 | Abschluss Containerisierung       | 60  Minuten | Die Arbeiten für die Docker Containerisierung und Docker-Compose erstellung wurden abgeschlossen.                       |
 
 __Zeit ca. 2 Stunde(n)__
+## Woche 7
 
-__Gesamte Zeit ca. 50.5 Stunde(n)__
+__01.06.2020 - 07.06.2020__
+
+| Datum      | Tätigkeit                         | Dauer       | Zusatz                                                                                                                  |
+| ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 02.06.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Es wurden die Ergebnisse des CI-Teams vorgestellt und über das weitere Vorgehen gesprochen.                             |
+| 05.06.2020 | Meeting mit der SGSE-Gruppe       | 30  Minuten | Es wurde über Probleme und ausstehende Arbeiten gesprochen.                                                             |
+| 05.06.2020 | Deployment des Microservices      | 90  Minuten | Die durch das CI-Team bereitgestellte vorlage wurde angepasst und damit das Projekt bereitgestellt.                     |
+| 05.06.2020 | Logo für zentrales Portal         | 60  Minuten | Das bestehende Projekt-Logo wurde für das zentrale Portal angepasst und den vorgaben nach aktualisiert.                 |
+| 06.06.2020 | Entwicklung von Tests             | 120 Minuten | Für das Frontend wurden testfälle entwickelt und ein Node workflow eingerichtet.                                        |
+
+__Zeit ca. 6 Stunde(n)__
+
+__Gesamte Zeit ca. 56.5 Stunde(n)__
