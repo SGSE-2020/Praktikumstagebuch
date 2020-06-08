@@ -64,7 +64,7 @@ __18.05.2020 - 24.05.2020__
 | 23.05.2020 | Arbeiten an der CD nach GKE mit Tim, Andre Kirsch und Alexander | 2h    |        |
 | 24.05.2020 | Weiterarbeiten an der CD nach GKE mit Tim, Andre Kirsch und Alexander | 1.5h  |        |
 
-## Woche 5
+## Woche 6
 
 __25.05.2020 - 31.05.2020__
 
@@ -73,6 +73,19 @@ __25.05.2020 - 31.05.2020__
 | 25.05.2020 | Weiterarbeiten an der CD nach GKE mit Tim, Andre Kirsch und Alexander | 3h    |        |
 | 26.05.2020 | Teambesprechung                                              | 1h    |        |
 | 30.05.2020 | Erstellen einer Navigationsleiste mit Bootstrap und einrichten der Routen in Angular | 2h    |        |
+| 31.05.2020 | Weiterarbeiten am Abrufen und darstellen von Informationen   | 0.75  |        |
 
-__Gesamte Zeit ca 40.25 Stunden__ 
+## Woche 7
+
+__01.06.2020 - 07.06.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 02.06.2020 | Weiterarbeiten an der CD nach GKE mit Tim, Andre Kirsch und Alexander | 2.5h  |        |
+| 02.06.2020 | Teambesprechung                                              | 0.75  |        |
+| 04.06.2020 | Erstellen des CI workflows für den eigenen MS. Erstellen einer Testumgebung für das Backend mit mocha und erstellen eines wokflows zum automatischen testen | 2     |        |
+| 05.06.2020 | Arbeiten an routen und frontend - erstellen neuer komponenten. Erstellen eines provisorischen Logos. Verbessern des testens vom Backend | 2.5   |        |
+| 05.06.2020 | Teambesprechung                                              | 0.5   |        |
+
+__Gesamte Zeit ca 49.25 Stunden__ 
 
