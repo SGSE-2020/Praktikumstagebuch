@@ -106,9 +106,21 @@ __01.06.2020 - 07.06.2020__
 | 06.06.2020 | Erstellung exemplarischer Testfall mit Test Workflow         | 1 h   |
 | 06.06.2020 | Kleine Änderungen für das Deployment innerhalb des Portals   | 1 h   |
 | 07.06.2020 | Frontend vorbereiten für Aushänge und Fundgegenstände. Füllen mit Dummydaten | 3 h   |
+| 07.06.2020 | Implementieren eines Backendlogs abrufbar über eine Route, Fertigstellung der Erstellung von Aushängen und Fixen des Bilderuploads | 4 h   |
 
 
 
+## Woche 8
+
+__08.06.2020 - 14.06.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer |
+| ---------- | ------------------------------------------------------------ | ----- |
+| 08.06.2020 | Aufsetzen einer Admin Page zur Anpassung von Nutzerrollen sowie die Implementierung des Auslesens der Aushänge aus der Datenbank | 5 h   |
+| 05.06.2020 | Teambesprechung - Gesamtteam                                 | 1,5 h |
+| 11.06.2020 | User grpc Funktionen fixen und Datenbank persistent einbinden | 1,5 h |
+| 13.06.2020 | Restliche grpc Funktionen fertigstellen                      | 1 h   |
 
 
-__Gesamte Zeit 62,5 Stunden__ 
+
+__Gesamte Zeit 75,5 Stunden__ 
