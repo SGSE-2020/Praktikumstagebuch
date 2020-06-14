@@ -92,10 +92,44 @@
 
 25.05. - 31.05.2020
 
-| Datum | Tätigkeit | Dauer | Zusatz |
-| ----- | --------- | ----- | ------ |
-|       |           |       |        |
-|       |           |       |        |
+| Datum  | Tätigkeit                        | Dauer | Zusatz                                         |
+| ------ | -------------------------------- | ----- | ---------------------------------------------- |
+| 25.05. | Infrastruktur+CI/CD Team Meeting | 3 h   | Ein Micro Service Kubernetisiert (**success**) |
+| 25.05. | Präsentation                     | 1,5 h |                                                |
+| 26.05. | Gruppen-Meeting                  | 1 h   |                                                |
+| 26.05. | Ausarbeitung v1                  | 3 h   | Gliederung Fertig und erste Inhalte            |
+| 28.05. | Ausarbeitung Inhalt              | 4 h   |                                                |
+| 29.05. | Ausarbeitung Inhalt              | 3 h   |                                                |
+| 30.05. | Ausarbeitung Inhalt              | 2,5 h |                                                |
+|        |                                  | 18 h  |                                                |
+
+## Woche 7
+
+01.06. - 07.06.2020
+
+| Datum  | Tätigkeit                                  | Dauer | Zusatz                                 |
+| ------ | ------------------------------------------ | ----- | -------------------------------------- |
+| 01.06. | Ausarbeitung Präsentation                  | 3 h   |                                        |
+| 02.06. | Infrastruktur+CI/CD Team Meeting           | 2,5 h |                                        |
+| 02.06. | Gruppen-Meeting                            | 1 h   |                                        |
+| 04.06. | Ausarbeitung Präsentation                  | 2 h   |                                        |
+| 04.06. | Infrastruktur-Team Meeting                 | 2,5 h |                                        |
+| 04.06. | Präsentation                               | 1,5 h |                                        |
+| 05.06. | Infrastruktur-Team Meeting                 | 6 h   | Kubernetes MS Kommunikation            |
+| 05.06. | Gruppen-Meeting                            | 0,5 h |                                        |
+| 05.06. | Infrastruktur-Team Meeting                 | 2 h   | Kubernetes MS Kommunikation nach außen |
+| 06.06. | Spezifikation, Mockups, Coding für Projekt | 2 h   |                                        |
+| 07.06. | Ausarbeitung Präsentation                  | 6 h   |                                        |
+|        |                                            | 29 h  |                                        |
+
+## Woche 8
+
+01.06. - 07.06.2020
+
+| Datum  | Tätigkeit                                   | Dauer | Zusatz |
+| ------ | ------------------------------------------- | ----- | ------ |
+| 08.06. | Ausarbeitung Präsentation                   | 4 h   |        |
+| 08.06. | Präsentation und Smartcity Zwischenergebnis | 2 h   |        |
 
 
 

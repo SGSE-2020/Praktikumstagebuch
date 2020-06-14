@@ -52,14 +52,42 @@ __11.05.2020 - 18.05.2020__
 
 ## Woche 5
 
-__11.05.2020 - 18.05.2020__
+__19.05.2020 - 24.05.2020__
 
-| Datum      | Tätigkeit          | Dauer | Zusatz |
-| ---------- | ------------------ | ----- | ------ |
-| 19.05.2020 | Teambesprechung    | 1.5h  |        |
-| 19.05.2020 | dockerisation      | 3.0h  |        |
-|            | Wochenstunden + Gesamt(Zusatz) | 4.5h | 27.5h |
+| Datum      | Tätigkeit                      | Dauer | Zusatz |
+| ---------- | ------------------------------ | ----- | ------ |
+| 19.05.2020 | Teambesprechung                | 1.5h  |        |
+| 19.05.2020 | dockerisation                  | 3.0h  |        |
+| 23.05.2020 | CI                             | 2.0h  |        |
+| 24.05.2020 | CI                             | 1.5h  |        |
+|            | Wochenstunden + Gesamt(Zusatz) | 8h    | 31h    |
+
+## Woche 6
+
+__25.05.2020 - 31.05.2020__
+
+| Datum      | Tätigkeit                      | Dauer | Zusatz |
+| ---------- | ------------------------------ | ----- | ------ |
+| 25.05.2020 | CI                             | 3.0h  |        |
+| 26.05.2020 | Teambesprechung                | 0.5h  |        |
+| 28.05.2020 | Dockerisation                  | 0.5h  |        |
+| 28.05.2020 | grpc			                  | 1.5h  |        |
+| 28.05.2020 | Firebase		                  | 1.0h  |        |
+|            | Wochenstunden + Gesamt(Zusatz) | 6.5h  | 37.5h  |
+
+## Woche 7
+
+__01.06.2020 - 07.06.2020__
+
+| Datum      | Tätigkeit                      | Dauer | Zusatz |
+| ---------- | ------------------------------ | ----- | ------ |
+| 02.06.2020 | Teambesprechung                | 1.0h  |        |
+| 05.06.2020 | Teambesprechung                | 1.0h  |        |
+| 06.06.2020 | Test implementieren + CI       | 1.5h  |        |
+| 06.06.2020 | Api Route                      | 3.0h  |        |
+| 07.06.2020 | Backend und Frontend           | 7.0h  |        |
+|            | Wochenstunden + Gesamt(Zusatz) | 13.5h | 51h    |
 
 
 
-__Gesamte Zeit ca. 27.5 Stunden__ 
+__Gesamte Zeit ca. 51 Stunden__ 

@@ -90,7 +90,20 @@ __01.06.2020 - 07.06.2020__
 | 04.06 | Kubernetes Ingress versuchen einzurichten                    | 2:30h |        |
 | 04.06 | Arbeiten an Frontend                                         | 1:30h |        |
 | 05.06 | Kubernetes einrichten mittlerweile ohne Ingress              | 5:30h |        |
+| 05.06 | Besprechung                                                  | 0:30h |        |
+| 06.06 | Arbeiten am Frontend                                         | 3:30h |        |
+| 07.06 | Frontend und bei Deployment Problemen helfen                 | 4:00h |        |
 
-Wöchentliche Zeit: 13:30 Stunden
+Wöchentliche Zeit: 21:30 Stunden
 
-__Gesamte Zeit ca 45:00 Stunden__ 
+## Woche 5 
+
+__08.06.2020 - 14.06.2020__
+
+| Datum | Tätigkeit                            | Dauer | Zusatz |
+| ----- | ------------------------------------ | ----- | ------ |
+| 08.06 | Kubernetes mit Datenbank und Persistence ausprobieren        | 2:00h |        |
+
+Wöchentliche Zeit: 2:00 Stunden
+
+__Gesamte Zeit ca 55:00 Stunden__ 
