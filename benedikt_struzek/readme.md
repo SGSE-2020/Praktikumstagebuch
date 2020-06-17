@@ -81,10 +81,27 @@ __01.06.2020 - 07.06.2020__
 
 __08.06.2020 - 14.06.2020__
 
-| Datum | Tätigkeit             | Dauer  | Zusatz |
-|-------|-----------------------|--------|--------|
-| 08.06 | MS Front- und Backend | 03:00h |        |
-|       |                       |        |        |
+| Datum | Tätigkeit                      | Dauer  | Zusatz |
+|-------|--------------------------------|--------|--------|
+| 08.06 | MS Front- und Backend          | 03:00h |        |
+| 09.06 | GCP Persistent Storage         | 01:30h |        |
+| 09.06 | Debugging webapp routing       | 04:00h |        |
+| 09.06 | Allgemeine Teambesprechung     | 01:30h |        |
+| 11.06 | MS Front CSS                   | 01:00h |        |
+| 13.06 | Backend calls changed to axios | 00:30h |        |
+
+## Woche 9
+
+__15.06.2020 - 21.06.2020__
+
+| Datum    | Tätigkeit                               | Dauer  | Zusatz |
+|----------|-----------------------------------------|--------|--------|
+| 15.06    | Firebase Anbindung / gRPC verification  | 07:00h |        |
+| 15.06    | Backend Auth via express middelware     | 01:30h |        |
+| 15/16.06 | SSL Proxy für alle MS und Portal        | 05:00h |        |
+| 16.06    | Allgemeine Teambesprechung              | 01:00h |        |
+| 16.06    | Allgemeine Teambesprechung              | 01:00h |        |
+| 17.06    | Auth via axios / refresh / api dev mode | 02:15h |        |
 
 ## Woche n
 
@@ -95,4 +112,4 @@ __DD.MM.JJJJ - DD.MM.JJJJ__
 |       |           |       |        |
 
 
-__Gesamte Zeit ca. 29:30 Stunden__ 
+__Gesamte Zeit ca. 62:00 Stunden__ 
