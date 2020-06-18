@@ -73,7 +73,7 @@ __25.05.2020 - 31.05.2020__
 | 25.05.2020 | Weiterarbeiten an der CD nach GKE mit Tim, Andre Kirsch und Alexander | 3h    |        |
 | 26.05.2020 | Teambesprechung                                              | 1h    |        |
 | 30.05.2020 | Erstellen einer Navigationsleiste mit Bootstrap und einrichten der Routen in Angular | 2h    |        |
-| 31.05.2020 | Weiterarbeiten am Abrufen und darstellen von Informationen   | 0.75  |        |
+| 31.05.2020 | Weiterarbeiten am Abrufen und darstellen von Informationen   | 0.75h |        |
 
 ## Woche 7
 
@@ -82,10 +82,29 @@ __01.06.2020 - 07.06.2020__
 | Datum      | Tätigkeit                                                    | Dauer | Zusatz |
 | ---------- | ------------------------------------------------------------ | ----- | ------ |
 | 02.06.2020 | Weiterarbeiten an der CD nach GKE mit Tim, Andre Kirsch und Alexander | 2.5h  |        |
-| 02.06.2020 | Teambesprechung                                              | 0.75  |        |
-| 04.06.2020 | Erstellen des CI workflows für den eigenen MS. Erstellen einer Testumgebung für das Backend mit mocha und erstellen eines wokflows zum automatischen testen | 2     |        |
-| 05.06.2020 | Arbeiten an routen und frontend - erstellen neuer komponenten. Erstellen eines provisorischen Logos. Verbessern des testens vom Backend | 2.5   |        |
-| 05.06.2020 | Teambesprechung                                              | 0.5   |        |
+| 02.06.2020 | Teambesprechung                                              | 0.75h |        |
+| 04.06.2020 | Erstellen des CI workflows für den eigenen MS. Erstellen einer Testumgebung für das Backend mit mocha und erstellen eines wokflows zum automatischen testen | 2h    |        |
+| 05.06.2020 | Arbeiten an routen und frontend - erstellen neuer komponenten. Erstellen eines provisorischen Logos. Verbessern des testens vom Backend | 2.5h  |        |
+| 05.06.2020 | Teambesprechung                                              | 0.5h  |        |
+| 06.06.2020 | Arbeiten an node test und ci mit Tim Meier                   | 1h    |        |
 
-__Gesamte Zeit ca 49.25 Stunden__ 
+## Woche 8
+
+__08.06.2020 - 14.06.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 08.06.2020 | Teambesprechung                                              | 0.5h  |        |
+| 08.06.2020 | Einrichten des Logins. Beheben eines problems mit Hyper-V das die Verwendung von docker verhinderte. Verwendung von pgadmin und postgres im Zusammenhang mit docker. Problem mit Verbindung von Postgres und pgadmin. Hilfe von Alex. | 3h    |        |
+
+## Woche 8
+
+__15.06.2020 - 21.06.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 08.06.2020 | Teambesprechung                                              | 1.5h  |        |
+| 08.06.2020 | Recherche zum Thema Blockchain und arbeiten an der Ausarbetung | 5.5h  |        |
+
+__Gesamte Zeit ca 60.75 Stunden__ 
 
