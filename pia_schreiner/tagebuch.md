@@ -123,4 +123,36 @@ __08.06.2020 - 14.06.2020__
 
 
 
-__Gesamte Zeit 75,5 Stunden__ 
+## Woche 9
+
+__15.06.2020 - 21.06.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer |
+| ---------- | ------------------------------------------------------------ | ----- |
+| 15.06.2020 | Erweitern der gRPC Funktion um weitere Logausgaben um die Kommilitonen zu unterstützen diese einzubinden | 1 h   |
+| 16.06.2020 | Teambesprechung - Gesamtteam                                 | 1,5 h |
+| 18.06.2020 | Hilfestellung geben für andere Studierende zur Funktionalität von gRPC | 2 h   |
+
+
+
+## Woche 10
+
+__22.06.2020 - 28.06.2020__
+
+| Datum | Tätigkeit | Dauer |
+| ----- | --------- | ----- |
+|       |           |       |
+
+
+
+## Woche 11
+
+__29.06.2020 - 02.07.2020__
+
+| Datum | Tätigkeit | Dauer |
+| ----- | --------- | ----- |
+|       |           |       |
+
+
+
+__Gesamte Zeit 79 Stunden__ 
