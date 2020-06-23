@@ -139,9 +139,14 @@ __15.06.2020 - 21.06.2020__
 
 __22.06.2020 - 28.06.2020__
 
-| Datum | Tätigkeit | Dauer |
-| ----- | --------- | ----- |
-|       |           |       |
+| Datum      | Tätigkeit                                                    | Dauer |
+| ---------- | ------------------------------------------------------------ | ----- |
+| 22.06.2020 | Initiales Einrichten von RabbitMQ, Veröffentlichen der Queues und Vorbereiten des Consumers | 2,5 h |
+| 23.06.2020 | Teambesprechung - Gesamtteam                                 | 0,5 h |
+| 23.06.2020 | Kleinere Fixes bezüglich der Aushänge von Dienstleistern     | 0,5 h |
+| 23.06.2020 | Fundgegenstand validieren und abholen. Drucken von Aushängen als PDF | 2 h   |
+
+
 
 
 
@@ -155,4 +160,4 @@ __29.06.2020 - 02.07.2020__
 
 
 
-__Gesamte Zeit 79 Stunden__ 
+__Gesamte Zeit 84,5 Stunden__ 
