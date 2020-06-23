@@ -103,8 +103,20 @@ __15.06.2020 - 21.06.2020__
 
 | Datum      | Tätigkeit                                                    | Dauer | Zusatz |
 | ---------- | ------------------------------------------------------------ | ----- | ------ |
-| 08.06.2020 | Teambesprechung                                              | 1.5h  |        |
-| 08.06.2020 | Recherche zum Thema Blockchain und arbeiten an der Ausarbetung | 5.5h  |        |
+| 16.06.2020 | Teambesprechung                                              | 1.5h  |        |
+| 18.06.2020 | Recherche zum Thema Blockchain und arbeiten an der Ausarbeitung | 5.5h  |        |
+| 19.06.2020 | Recherche zum Thema Blockchain und arbeiten an der Ausarbeitung | 3.25h |        |
+| 20.06.2020 | Recherche zum Thema Blockchain und arbeiten an der Ausarbeitung | 2h    |        |
+| 21.06.2020 | Recherche zum Thema Blockchain und arbeiten an der Ausarbeitung und Arbeiten an der Präsentation | 4.5h  |        |
 
-__Gesamte Zeit ca 60.75 Stunden__ 
+## Woche 9
+
+__15.06.2020 - 21.06.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 22.06.2020 | Weitere Recherche zum Thema Blockchain und arbeiten an der Präsentation | 3h    |        |
+| 23.06.2020 | Proben der Präsentation                                      | 1.5h  |        |
+
+__Gesamte Zeit ca 75.00 Stunden__ 
 
