@@ -67,7 +67,7 @@ __18.05.2020 - 24.05.2020__
 
 Wöchentliche Zeit: 8:30 Stunden
 
-## Woche 5 
+## Woche 6 
 
 __25.05.2020 - 31.05.2020__
 
@@ -79,7 +79,7 @@ __25.05.2020 - 31.05.2020__
 
 Wöchentliche Zeit: 5:30 Stunden
 
-## Woche 6 
+## Woche 7
 
 __01.06.2020 - 07.06.2020__
 
@@ -96,14 +96,40 @@ __01.06.2020 - 07.06.2020__
 
 Wöchentliche Zeit: 21:30 Stunden
 
-## Woche 5 
+## Woche 8
 
 __08.06.2020 - 14.06.2020__
 
-| Datum | Tätigkeit                            | Dauer | Zusatz |
-| ----- | ------------------------------------ | ----- | ------ |
-| 08.06 | Kubernetes mit Datenbank und Persistence ausprobieren        | 2:00h |        |
+| Datum | Tätigkeit                                             | Dauer | Zusatz |
+| ----- | ----------------------------------------------------- | ----- | ------ |
+| 08.06 | Kubernetes mit Datenbank und Persistence ausprobieren | 2:00h |        |
+| 09.06 | Kubernetes Persistence einrichten                     | 2:30h |        |
+| 09.06 | Teambesprechung                                       | 0:30h |        |
 
-Wöchentliche Zeit: 2:00 Stunden
+Wöchentliche Zeit: 5:00 Stunden
 
-__Gesamte Zeit ca 55:00 Stunden__ 
+## Woche 9 
+
+__15.06.2020 - 21.06.2020__
+
+| Datum | Tätigkeit                                                  | Dauer | Zusatz |
+| ----- | ---------------------------------------------------------- | ----- | ------ |
+| 15.06 | Datenbank einbinden und Aufgaben im Backend                | 2:00h |        |
+| 16.06 | Von http zu https wechseln                                 | 1:00h |        |
+| 16.06 | Teambesprechung                                            | 0:30h |        |
+| 20.06 | Login Fix und Verifizierung und Backend User Verifizierung | 4:00h |        |
+
+Wöchentliche Zeit: 6:30 Stunden
+
+## Woche 10 
+
+__22.06.2020 - 28.06.2020__
+
+| Datum | Tätigkeit                                                    | Dauer | Zusatz |
+| ----- | ------------------------------------------------------------ | ----- | ------ |
+| 22.06 | MenuComponent im Frontend eingefügt und Query Param beim restaurant Pfad | 2:00h |        |
+| 24.06 | Order Seite hinzugefügt                                      | 3:30h |        |
+
+Wöchentliche Zeit: 5:30 Stunden
+
+__Gesamte Zeit ca 70:00 Stunden__ 
