@@ -102,6 +102,7 @@ __15.06.2020 - 21.06.2020__
 | 16.06    | Allgemeine Teambesprechung              | 01:30h |        |
 | 17.06    | Auth via axios / refresh / api dev mode | 02:15h |        |
 | 21.06    | Firebase and Config                     | 01:00h |        |
+| 21.06    | Final API Endpoint planning             | 02:00h |        |
 
 ## Woche 10
 
@@ -123,6 +124,9 @@ __22.06.2020 - 28.06.2020__
 | 23.06 | store update               | 01:00h |        |
 | 23.06 | refactoring                | 02:00h |        |
 |       |                            |        |        |
+| 24.06 | small fixes                | 02:00h |        |
+|       |                            |        |        |
+|       |                            |        |        |
 |       |                            |        |        |
 
 ## Woche n
@@ -134,4 +138,4 @@ __DD.MM.JJJJ - DD.MM.JJJJ__
 |       |           |       |        |
 
 
-__Gesamte Zeit ca. 81:00 Stunden__ 
+__Gesamte Zeit ca. 85:00 Stunden__ 
