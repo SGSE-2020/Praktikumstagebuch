@@ -128,8 +128,9 @@ __22.06.2020 - 28.06.2020__
 | Datum | Tätigkeit                                                    | Dauer | Zusatz |
 | ----- | ------------------------------------------------------------ | ----- | ------ |
 | 22.06 | MenuComponent im Frontend eingefügt und Query Param beim restaurant Pfad | 2:00h |        |
-| 24.06 | Order Seite hinzugefügt                                      | 3:30h |        |
+| 23.06 | Teambesprechung                                              | 1:00h |        |
+| 23.06 | Order Seite hinzugefügt                                      | 3:30h |        |
 
 Wöchentliche Zeit: 5:30 Stunden
 
-__Gesamte Zeit ca 70:00 Stunden__ 
+__Gesamte Zeit ca 71:00 Stunden__ 
