@@ -120,7 +120,7 @@ __15.06.2020 - 21.06.2020__
 | 23.06.2020 | Teambesprechnung                                             | 1.5h  |        |
 | 24.06.2020 | Verbinden des backend mit der datenbank und arbeiten am einrichten der Tabellen | 3.5h  |        |
 | 25.06.2020 | Korrektur der Ausarbeitung und der Präsentation. Proben der Präsentation | 3h    |        |
-| 25.06.2020 | Estellen weiterer Routen mit verbindung zur Datenbank, sowie anpassung bestehender Routen, sodass diese ebenfalls daten aus der Datenbank verwendeten. Erweitern des Frontend und verwendung der neu eingerichteten Routen im Frontend. Arbeuten am deployen der Datenbank | 5h    |        |
+| 25.06.2020 | Estellen weiterer Routen mit verbindung zur Datenbank, sowie anpassung bestehender Routen, sodass diese ebenfalls daten aus der Datenbank verwendeten. Erweitern des Frontend und verwendung der neu eingerichteten Routen im Frontend. Arbeuten am deployen der Datenbank | 5.5h  |        |
 
-__Gesamte Zeit ca 88.00 Stunden__ 
+__Gesamte Zeit ca 88.50 Stunden__ 
 
