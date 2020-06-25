@@ -124,12 +124,54 @@
 
 ## Woche 8
 
-01.06. - 07.06.2020
+08.06. - 14.06.2020
 
-| Datum  | Tätigkeit                                   | Dauer | Zusatz |
-| ------ | ------------------------------------------- | ----- | ------ |
-| 08.06. | Ausarbeitung Präsentation                   | 4 h   |        |
-| 08.06. | Präsentation und Smartcity Zwischenergebnis | 2 h   |        |
+| Datum  | Tätigkeit                                   | Dauer  | Zusatz                                                       |
+| ------ | ------------------------------------------- | ------ | ------------------------------------------------------------ |
+| 08.06. | Ausarbeitung Präsentation                   | 4 h    |                                                              |
+| 08.06. | Präsentation und Smartcity Zwischenergebnis | 2 h    |                                                              |
+| 09.06. | Infrastruktur-Team Meeting                  | 2 h    | Persistente Laufwerke für die Datenbank erstellen + Datenbank deployment |
+| 09.06. | Gruppen-Meeting                             | 1 h    |                                                              |
+| 09.06. | Microservice delpoyment + Datenbank + Test  | 2 h    |                                                              |
+| 12.06. | Dev Umgebung MicroService anpassen          | 2,5 h  |                                                              |
+|        |                                             | 13,5 h |                                                              |
+
+## Woche 9
+
+15.06. - 21.06.2020
+
+| Datum  | Tätigkeit                                  | Dauer  | Zusatz                                     |
+| ------ | ------------------------------------------ | ------ | ------------------------------------------ |
+| 15.06. | Präsentation                               | 1,5 h  |                                            |
+| 16.06. | Infrastruktur-Team Meeting                 | 2 h    | Smartcity per HTTPS erreichbar machen      |
+| 16.06. | Gruppen-Meeting                            | 1,5 h  |                                            |
+| 16.06. | Arbeit an MicroService                     | 2 h    |                                            |
+| 17.06. | Versuch die gRPC-Verbindung zu realisieren | 5 h    | gRPC mit Go ist die HÖLLE!!!!!**(Failed)** |
+| 18.06. | gRPC Verbindung fehler gefunden            | 3 h    |                                            |
+| 18.06. | Presentation                               | 1,5 h  |                                            |
+|        |                                            | 16,5 h |                                            |
+
+## Woche 10
+
+22.06. - 28.06.2020
+
+| Datum  | Tätigkeit       | Dauer | Zusatz |
+| ------ | --------------- | ----- | ------ |
+| 23.06. | Präsentation    | 1,5 h |        |
+| 24.06. | Gruppen-Meeting | 1,5 h |        |
+| 25.06. | Präsentation    | 1,5 h |        |
+|        |                 |       |        |
+
+## Woche 11
+
+29.06. - 05.07.2020
+
+| Datum | Tätigkeit | Dauer | Zusatz |
+| ----- | --------- | ----- | ------ |
+|       |           |       |        |
+|       |           |       |        |
+|       |           |       |        |
+|       |           |       |        |
 
 
 

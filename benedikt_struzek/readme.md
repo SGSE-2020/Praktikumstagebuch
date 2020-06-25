@@ -99,9 +99,36 @@ __15.06.2020 - 21.06.2020__
 | 15.06    | Firebase Anbindung / gRPC verification  | 07:00h |        |
 | 15.06    | Backend Auth via express middelware     | 01:30h |        |
 | 15/16.06 | SSL Proxy für alle MS und Portal        | 05:00h |        |
-| 16.06    | Allgemeine Teambesprechung              | 01:00h |        |
-| 16.06    | Allgemeine Teambesprechung              | 01:00h |        |
+| 16.06    | Allgemeine Teambesprechung              | 01:30h |        |
 | 17.06    | Auth via axios / refresh / api dev mode | 02:15h |        |
+| 21.06    | Firebase and Config                     | 01:00h |        |
+| 21.06    | Final API Endpoint planning             | 02:00h |        |
+
+## Woche 10
+
+__22.06.2020 - 28.06.2020__
+
+| Datum | Tätigkeit                  | Dauer  | Zusatz |
+|-------|----------------------------|--------|--------|
+| 22.06 | Token handling updaed      | 01:30h |        |
+| 22.06 | role management added      | 02:00h |        |
+| 22.06 | announcements added        | 02:00h |        |
+|       |                            |        |        |
+| 23.06 | Allgemeine Teambesprechung | 01:30h |        |
+| 23.06 | announcements update       | 02:00h |        |
+| 23.06 | index using uid            | 02:00h |        |
+| 23.06 | db ui deployment -> failed | 01:30h |        |
+| 23.06 | db reset added             | 02:00h |        |
+| 23.06 | MS_Proxy debugging         | 02:00h |        |
+| 23.06 | error messages             | 01:00h |        |
+| 23.06 | store update               | 01:00h |        |
+| 23.06 | refactoring                | 02:00h |        |
+|       |                            |        |        |
+| 24.06 | small fixes                | 02:00h |        |
+| 24.06 | API refactoring            | 02:00h |        |
+| 24.06 | Anträge API + frontend     | 04:00h |        |
+| 24.06 | Anträge Mitarbeiter added  | 03:00h |        |
+
 
 ## Woche n
 
@@ -112,4 +139,4 @@ __DD.MM.JJJJ - DD.MM.JJJJ__
 |       |           |       |        |
 
 
-__Gesamte Zeit ca. 62:00 Stunden__ 
+__Gesamte Zeit ca. 94:00 Stunden__ 
