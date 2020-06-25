@@ -128,6 +128,9 @@ __22.06.2020 - 28.06.2020__
 | 24.06 | API refactoring            | 02:00h |        |
 | 24.06 | Anträge API + frontend     | 04:00h |        |
 | 24.06 | Anträge Mitarbeiter added  | 03:00h |        |
+|       |                            |        |        |
+| 25.06 | Smaller changes            | 02:00h |        |
+| 25.06 | Server Crashes fixed       | 01:00h |        |
 
 
 ## Woche n
@@ -139,4 +142,4 @@ __DD.MM.JJJJ - DD.MM.JJJJ__
 |       |           |       |        |
 
 
-__Gesamte Zeit ca. 94:00 Stunden__ 
+__Gesamte Zeit ca. 97:00 Stunden__ 
