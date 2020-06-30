@@ -145,6 +145,8 @@ __22.06.2020 - 28.06.2020__
 | 23.06.2020 | Teambesprechung - Gesamtteam                                 | 0,5 h |
 | 23.06.2020 | Kleinere Fixes bezüglich der Aushänge von Dienstleistern     | 0,5 h |
 | 23.06.2020 | Fundgegenstand validieren und abholen. Drucken von Aushängen als PDF | 2 h   |
+| 26.06.2020 | Fix RabbitMQ Publishing, Direktes aktualisieren der View, Anzeige der aktiven Route mit anderem Button | 3 h   |
+| 28.06.2020 | Teamabsprache bezüglich Softwaredemo, Update Spezifikation   | 2 h   |
 
 
 
@@ -154,10 +156,11 @@ __22.06.2020 - 28.06.2020__
 
 __29.06.2020 - 02.07.2020__
 
-| Datum | Tätigkeit | Dauer |
-| ----- | --------- | ----- |
-|       |           |       |
+| Datum      | Tätigkeit                                                    | Dauer |
+| ---------- | ------------------------------------------------------------ | ----- |
+| 30.06.2020 | Teamabsprache - Gesamtteam                                   | 1 h   |
+| 30.06.2020 | Implementieren des Consumer Services für die Queue des Rettungsdienstes | 2 h   |
 
 
 
-__Gesamte Zeit 84,5 Stunden__ 
+__Gesamte Zeit 92,5 Stunden__ 
