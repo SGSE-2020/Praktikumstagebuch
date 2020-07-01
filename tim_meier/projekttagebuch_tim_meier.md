@@ -89,5 +89,52 @@ __01.06.2020 - 07.06.2020__
 |            | Wochenstunden + Gesamt(Zusatz) | 13.5h | 51h    |
 
 
+## Woche 8
 
-__Gesamte Zeit ca. 51 Stunden__ 
+__08.06.2020 - 14.06.2020__
+
+| Datum      | Tätigkeit                      | Dauer | Zusatz |
+| ---------- | ------------------------------ | ----- | ------ |
+| 09.06.2020 | Teambesprechung                | 1.0h  |        |
+|            | Wochenstunden + Gesamt(Zusatz) | 1h    | 52h    |
+
+
+## Woche 9
+
+__15.06.2020 - 21.06.2020__
+
+| Datum      | Tätigkeit                      | Dauer | Zusatz |
+| ---------- | ------------------------------ | ----- | ------ |
+| 16.06.2020 | Teambesprechung                | 1.0h  |        |
+| 18.06.2020 | auf https umstellen		      | 1.0h  |        |
+| 19.06.2020 | mongo db einbauen              | 4.0h  |        |
+|            | Wochenstunden + Gesamt(Zusatz) | 6h    | 58h    |
+
+## Woche 10
+
+__22.06.2020 - 28.06.2020__
+
+| Datum      | Tätigkeit                      | Dauer | Zusatz |
+| ---------- | ------------------------------ | ----- | ------ |
+| 23.06.2020 | Teambesprechung                | 1.0h  |        |
+| 23.06.2020 | Login überarbeiten             | 2.0h  |        |
+| 24.06.2020 | DB                             | 4.0h  |        |
+| 26.06.2020 | diverses                       | 8.0h  |        |
+| 28.06.2020 | update                         | 5.0h  |        |
+|            | Wochenstunden + Gesamt(Zusatz) | 20.0h | 78h    |
+
+## Woche 11
+
+__29.06.2020 - 06.07.2020__
+
+| Datum      | Tätigkeit                      | Dauer | Zusatz |
+| ---------- | ------------------------------ | ----- | ------ |
+| 30.06.2020 | Teambesprechung                | 1.5h  |        |
+| 30.06.2020 | diverses                       | 7.0h  |        |
+| 01.07.2020 | User Stories besprechen        | 2.0h  |        |
+| 01.07.2020 | diverses                       | 4.5h  |        |
+|            | Wochenstunden + Gesamt(Zusatz) | 15.0h | 93h    |
+
+
+
+__Gesamte Zeit ca. 93 Stunden__ 
