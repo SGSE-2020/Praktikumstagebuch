@@ -12,7 +12,7 @@ __20.04.2020 - 26.04.2020__
 | 21.04 | Teambesprechung | 1.5h |        |
 |21.04| Use Case Diagramm erstellt| 0.75h ||
 
-*Gesamt: 2.75h*
+*Gesamt Woche: 2.75h*
 
 ## Woche 2 
 
@@ -23,7 +23,7 @@ __27.04.2020 - 03.05.2020__
 | 27.04 | Kurzüberblick möglicher Scala Technologien verschafft | 2h | Akka HTTP, Play Framework |
 | 28.04 | Teambesprechung | 1.5h |      |
 
-*Gesamt: 3.5h* 
+*Gesamt Woche: 3.5h* 
 
 
 
@@ -39,7 +39,7 @@ __04.05.2020 - 10.05.2020__
 | 10.05 | Teambesprechung            | 1.5h  |                                                              |
 | 10.05 | Einführung Docker bekommen | 2h    | Groben Einblick von Docker, und Docker mit VS-Code von Benedikt Struzek bekommen. |
 
-*Gesamt 8.5h* 
+*Gesamt Woche: 8.5h* 
 
 ## Woche 4 
 
@@ -47,7 +47,7 @@ __11.05.2020 - 17.05.2020__
 
 | Datum | Tätigkeit                                 | Dauer | Zusatz                                                       |
 | ----- | ----------------------------------------- | ----- | ------------------------------------------------------------ |
-| 12.05 | Tieferes einlesen in Akka                 | 1h    | Evtl. gar nicht nötig bzw. gar nicht passend für die Anwendung. Frontend besser mit Scala-js. react.js (erstmal) verworfen um Anzahl der neuen Technologien zu reduzieren. Evtl. react.js später auf Scala.js aufsetzen (soll angeblich recht einfach gehen) |
+| 12.05 | Tieferes einlesen in Akka                 | 1h    | Evtl. gar nicht nötig bzw. gar nicht passend für die Anwendung. Frontend besser mit Scala-js. react.js (erstmal) verworfen um Anzahl der neuen Technologien zu reduzieren. Evtl. react.js später auf Scala.js aufsetzen (soll angeblich recht einfach gehen). UPDATE: Playframework läuft auf Akka |
 | 12.05 | Anpassung Diagramme (Akka raus Scala.js rein) | 0.25h |                                                              |
 | 12.05 | Teambesprechung                           | 1.5h  |                                                              |
 | 13.05 | Setup VS-Code für Scala und "Hello World" | 1h    | Teilweise noch Fehler beim Kompilieren. evtl auf VM wechseln. |
@@ -57,7 +57,7 @@ __11.05.2020 - 17.05.2020__
 |16.05|Scala.js Hello World aufgesetzt|1h|"Nur" Skelett mit Ausgabe auf der Konsole, noch kein UI, kein HTML|
 |17.05|Scala.js Hello World mit Button aufgesetzt|1h|Per HTML. Scala Code wird zu JavaScript und kann in HTML eingebunden werden. Das Vorhandene Skelett kann als Basis für SmartMarkt genutzt werden.|
 
-*Gesamt 7.75h* 
+*Gesamt Woche: 7.75h* 
 
 ## Woche 5 
 
@@ -84,7 +84,7 @@ __18.05.2020 - 24.05.2020__
 | 24.05 | Weiter versuche gRPC aufzusetzten |2h|Dummy Service nur mit gRPC geht. Es sollte aber auch möglich sein gRPC und HTTP in einen Play Service zu verbinden. => Stackoverflow Beitrag erstellt|
 | 24.05 | .proto Datei definiert |0.5h|Noch nicht eingebunden (grpc läuft noch nicht)|
 
-Gesamt 19.5h 
+Gesamt Woche: 19.5h 
 
 
 ## Woche 6 
@@ -108,7 +108,7 @@ __25.05.2020 - 31.05.2020__
 |30.05|ein paar Funktionalitäten Implementiert, ein wenig css gemacht|1h|LogOut passt jetzt die Seite. Suchleisten filtern jetzt die Ergebnisse (dummy daten) ohne die komplette Seite neu zu laden. Buttons funktionieren jetzt auch nachdem sie neugeladen wurden.|
 |31.05|Refactore Frontend-Code|1.5h||
 
-Gesamt 24.25h 
+Gesamt Woche: 24.25h 
 
 ## Woche 7 
 
@@ -118,29 +118,38 @@ __01.06.2020 - 07.06.2020__
 | ----- | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
 |01.06|Einkaufswagen zur HashMap umgebaut|1h||
 |01.06|Fehler behoben, durch den nur die Startwerte von Textfelder o.ä gelesen wurden|1h|Um aktuelle Werte zu bekommen, DOM-Element per JQuery aufrufen.|
+|02.06|Teambeasprechung|1.5h||
 |02.06|Frontend Dummy fertiggestellt|1h|Alle Funktionen sind dummy artig implementiert. Dummy Daten müssen jetzt durch Anbindung an das Backend ersetzt werden|
 |04.06|Versucht Integrationstest in Scala.js zu schreiben|1h|Tests können compliliert werden, werden aber nicht mit *sbt test* ausgeführt.|
 |04.06|Projekt für CI vorbereitet|0.5h||
+|05.06|Teambresprechung|1h||
 | 06.06 | GET Anfragen an das Backend eingebunden. Ausgabe der Antwort nur auf der Shell | 1h | Die Antworten müssen noch korrekt geparsed werden. |
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|07.06|Bugs beim Deployment in der Cloud behoben|2h|Backend war nicht erreichbar|
+|07.06|Add bootstrap|2h|Navigations bar wird gut dargestellt. ArticleDiv versuche gescheitert.|
 
+Gesamt Woche:  12h 
+
+## Woche 8 
+
+__08.06.2020 - 14.06.2020__
+
+| Datum | Tätigkeit                                                    | Dauer | Zusatz                                                       |
+| ----- | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
+| 09.06 | Teammeeting                                                  | 1.5h  |                                                              |
+| 09.06 | Backend mit Datenbank verbunden                              | 3h    |                                                              |
+| 09.06 | Erste Dummy Daten durch DB Abfragen ersetzt                  | 3h    |                                                              |
+| 09.06 | getAllOrderAbfrage implementiert                             | 1h    | Auffrischen von SQL Befehlen                                 |
+| 10.06 | Alle Schnittstellen an die DB angebunden und Fertiggestellt  | 10h   |                                                              |
+| 11.06 | Versucht in Scala.js JSON mithilfe der Json lib des PlayFrameworks zu parsen | 2h    | kein erfolg                                                  |
+| 11.06 | Datenbank für CI aufgesetzt                                  | 4h    | Datenbank läuft, aber es backend findet die DB nicht.        |
+| 12.06 | Datenbank korrekt verbunden                                  | 2h    | Tabellen wurden nicht in der Datenbank sondern im "oberverzeichnis" erstellt. Erstellen der Tabellen wurde in das Backend ausgelagert. |
+| 12.06 | Daten (endlich) im Frontend geparsed (GET Requests)          | 2h    | Mehrere Libs zusammengeflastert, mithilfe von switch case Typsicherheit hergestellt (nicht schön aber läuft) |
+| 13.06 | GRPC-Client Verbindung mit Bürgerbüro hergestellt            | 4h    | Verbindung funktioniert. Die A-Synchrone Bearbeitungen noch nicht. |
+| 14.06 | Username und Adresse bei Bestellungen und Reviews anzeigen |1h|Name und Adresse sind noch Dummy Daten aus den Backend, muss ersetzt werden durch die Daten vom grpc User des Bürgerbüros.|
+| 14.06 | fix bug in myOrder request |1h||
+| 14.06 | DB wird jetzt vollständig im Backend erstellt. Dockerfile für DB fällt weg |1h||
+
+Gesamt Woche:  35.5h 
 
 __Gesamte Zeit __
 

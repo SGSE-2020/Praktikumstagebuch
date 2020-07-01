@@ -73,7 +73,7 @@ __25.05.2020 - 31.05.2020__
 | 25.05.2020 | Weiterarbeiten an der CD nach GKE mit Tim, Andre Kirsch und Alexander | 3h    |        |
 | 26.05.2020 | Teambesprechung                                              | 1h    |        |
 | 30.05.2020 | Erstellen einer Navigationsleiste mit Bootstrap und einrichten der Routen in Angular | 2h    |        |
-| 31.05.2020 | Weiterarbeiten am Abrufen und darstellen von Informationen   | 0.75  |        |
+| 31.05.2020 | Weiterarbeiten am Abrufen und darstellen von Informationen   | 0.75h |        |
 
 ## Woche 7
 
@@ -82,10 +82,59 @@ __01.06.2020 - 07.06.2020__
 | Datum      | Tätigkeit                                                    | Dauer | Zusatz |
 | ---------- | ------------------------------------------------------------ | ----- | ------ |
 | 02.06.2020 | Weiterarbeiten an der CD nach GKE mit Tim, Andre Kirsch und Alexander | 2.5h  |        |
-| 02.06.2020 | Teambesprechung                                              | 0.75  |        |
-| 04.06.2020 | Erstellen des CI workflows für den eigenen MS. Erstellen einer Testumgebung für das Backend mit mocha und erstellen eines wokflows zum automatischen testen | 2     |        |
-| 05.06.2020 | Arbeiten an routen und frontend - erstellen neuer komponenten. Erstellen eines provisorischen Logos. Verbessern des testens vom Backend | 2.5   |        |
-| 05.06.2020 | Teambesprechung                                              | 0.5   |        |
+| 02.06.2020 | Teambesprechung                                              | 0.75h |        |
+| 04.06.2020 | Erstellen des CI workflows für den eigenen MS. Erstellen einer Testumgebung für das Backend mit mocha und erstellen eines wokflows zum automatischen testen | 2h    |        |
+| 05.06.2020 | Arbeiten an routen und frontend - erstellen neuer komponenten. Erstellen eines provisorischen Logos. Verbessern des testens vom Backend | 2.5h  |        |
+| 05.06.2020 | Teambesprechung                                              | 0.5h  |        |
+| 06.06.2020 | Arbeiten an node test und ci mit Tim Meier                   | 1h    |        |
 
-__Gesamte Zeit ca 49.25 Stunden__ 
+## Woche 8
+
+__08.06.2020 - 14.06.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 08.06.2020 | Teambesprechung                                              | 0.5h  |        |
+| 08.06.2020 | Einrichten des Logins. Beheben eines problems mit Hyper-V das die Verwendung von docker verhinderte. Verwendung von pgadmin und postgres im Zusammenhang mit docker. Problem mit Verbindung von Postgres und pgadmin. Hilfe von Alex. | 3h    |        |
+
+## Woche 8
+
+__15.06.2020 - 21.06.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 16.06.2020 | Teambesprechung                                              | 1.5h  |        |
+| 18.06.2020 | Recherche zum Thema Blockchain und arbeiten an der Ausarbeitung | 5.5h  |        |
+| 19.06.2020 | Recherche zum Thema Blockchain und arbeiten an der Ausarbeitung | 3.25h |        |
+| 20.06.2020 | Recherche zum Thema Blockchain und arbeiten an der Ausarbeitung | 2h    |        |
+| 21.06.2020 | Recherche zum Thema Blockchain und arbeiten an der Ausarbeitung und Arbeiten an der Präsentation | 4.5h  |        |
+
+## Woche 9
+
+__22.06.2020 - 28.06.2020__
+
+| Datum         | Tätigkeit                                                    | Dauer | Zusatz |
+| ------------- | ------------------------------------------------------------ | ----- | ------ |
+| 22.06.2020    | Weitere Recherche zum Thema Blockchain und arbeiten an der Präsentation | 3h    |        |
+| 23.06.2020    | Proben der Präsentation                                      | 1.5h  |        |
+| 23.06.2020    | Teambesprechnung                                             | 1.5h  |        |
+| 24.06.2020    | Verbinden des backend mit der datenbank und arbeiten am einrichten der Tabellen | 3.5h  |        |
+| 25.06.2020    | Korrektur der Ausarbeitung und der Präsentation. Proben der Präsentation | 3h    |        |
+| 25.06.2020    | Estellen weiterer Routen mit verbindung zur Datenbank, sowie anpassung bestehender Routen, sodass diese ebenfalls daten aus der Datenbank verwendeten. Erweitern des Frontend und verwendung der neu eingerichteten Routen im Frontend. Arbeuten am deployen der Datenbank | 5.5h  |        |
+| 26/27.06.2020 | Suche nach dem grund warum das backend sich nachd em deployen nicht mit der Datenbak verbindet. Dabei Hilfe von Alexander Bergmann, allerdings kann dieser auch keinen Fehler finden. | 1.5   |        |
+| 28.06.2020    | Erstellen der funktionalität ohne datenbank, sodass notfalls auf diese zurückgegriffen werden kann. Anpassen der Spezifikation. Kleinere Anpassungen im frontend. | 1.75  |        |
+| 28.06.2020    | Teambesprechnung, Anpassen des Routing in angular, hinzufügen von Patienten über gRPC | 1h    |        |
+
+## Woche 10
+
+__29.06.2020 - 05.07.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer | Zusatz |
+| ---------- | ------------------------------------------------------------ | ----- | ------ |
+| 29.06.2020 | Arbeiten am css. Arbeiten am gRPC Client und absprechen der Verbindung zwischen Resttungsdienst und Krankenhasu mit Patrick Poppe. Durschauen aller Praesentationen und Ausarebitungen, ob Bilder korrekt angezeigt werden. | 3.5h  |        |
+| 29.06.2020 | Weiterarbeiten mit Patrick Poppe an der Verbindung zwischen Krankenhaus und Rettungsdiesnst. Dies gestalltete sich langwierig, da immer wieder auf das abschließen von deploy schritten gewartet werden musste | 2h    |        |
+
+
+
+__Gesamte Zeit ca 98.25 Stunden__ 
 

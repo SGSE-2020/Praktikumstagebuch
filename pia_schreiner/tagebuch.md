@@ -106,9 +106,61 @@ __01.06.2020 - 07.06.2020__
 | 06.06.2020 | Erstellung exemplarischer Testfall mit Test Workflow         | 1 h   |
 | 06.06.2020 | Kleine Änderungen für das Deployment innerhalb des Portals   | 1 h   |
 | 07.06.2020 | Frontend vorbereiten für Aushänge und Fundgegenstände. Füllen mit Dummydaten | 3 h   |
+| 07.06.2020 | Implementieren eines Backendlogs abrufbar über eine Route, Fertigstellung der Erstellung von Aushängen und Fixen des Bilderuploads | 4 h   |
+
+
+
+## Woche 8
+
+__08.06.2020 - 14.06.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer |
+| ---------- | ------------------------------------------------------------ | ----- |
+| 08.06.2020 | Aufsetzen einer Admin Page zur Anpassung von Nutzerrollen sowie die Implementierung des Auslesens der Aushänge aus der Datenbank | 5 h   |
+| 05.06.2020 | Teambesprechung - Gesamtteam                                 | 1,5 h |
+| 11.06.2020 | User grpc Funktionen fixen und Datenbank persistent einbinden | 1,5 h |
+| 13.06.2020 | Restliche grpc Funktionen fertigstellen                      | 1 h   |
+
+
+
+## Woche 9
+
+__15.06.2020 - 21.06.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer |
+| ---------- | ------------------------------------------------------------ | ----- |
+| 15.06.2020 | Erweitern der gRPC Funktion um weitere Logausgaben um die Kommilitonen zu unterstützen diese einzubinden | 1 h   |
+| 16.06.2020 | Teambesprechung - Gesamtteam                                 | 1,5 h |
+| 18.06.2020 | Hilfestellung geben für andere Studierende zur Funktionalität von gRPC | 2 h   |
+
+
+
+## Woche 10
+
+__22.06.2020 - 28.06.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer |
+| ---------- | ------------------------------------------------------------ | ----- |
+| 22.06.2020 | Initiales Einrichten von RabbitMQ, Veröffentlichen der Queues und Vorbereiten des Consumers | 2,5 h |
+| 23.06.2020 | Teambesprechung - Gesamtteam                                 | 0,5 h |
+| 23.06.2020 | Kleinere Fixes bezüglich der Aushänge von Dienstleistern     | 0,5 h |
+| 23.06.2020 | Fundgegenstand validieren und abholen. Drucken von Aushängen als PDF | 2 h   |
+| 26.06.2020 | Fix RabbitMQ Publishing, Direktes aktualisieren der View, Anzeige der aktiven Route mit anderem Button | 3 h   |
+| 28.06.2020 | Teamabsprache bezüglich Softwaredemo, Update Spezifikation   | 2 h   |
 
 
 
 
 
-__Gesamte Zeit 62,5 Stunden__ 
+## Woche 11
+
+__29.06.2020 - 02.07.2020__
+
+| Datum      | Tätigkeit                                                    | Dauer |
+| ---------- | ------------------------------------------------------------ | ----- |
+| 30.06.2020 | Teamabsprache - Gesamtteam                                   | 1 h   |
+| 30.06.2020 | Implementieren des Consumer Services für die Queue des Rettungsdienstes | 2 h   |
+
+
+
+__Gesamte Zeit 92,5 Stunden__ 
