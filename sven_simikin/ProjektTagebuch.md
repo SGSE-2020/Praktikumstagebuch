@@ -141,7 +141,10 @@ __29.06.2020 - 02.07.2020__
 | 30.06.2020 | API-Report und Messaging          | 90  Minuten | Die verbliebenen internen Schnittstellen für das Melden von Falschparkern sowie Messaging realisiert.                   |
 | 30.06.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Probleme mit gRPC wurden besprochen und die Präsentation vorgestellt                                                    | 
 | 30.06.2020 | Problemfindung gRPC               | 30  Minuten | Probleme mit dem gRPC Server wurden behoben, sodass weitere Microservices mit dem Server kommunizieren können.          | 
+| 01.07.2020 | Reservierung mist Restaurant      | 60  Minuten | Die Kommunikation mit der Bank und dem Restaurant wurde hergestellt.                                                    | 
+| 01.07.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Das Vorgehen und offene Fragen für die Softwarepräesentation am 02.07.2020 wurde erneut besprochen.                     |
 
-__Zeit ca. 4.25 Stunde(n)__
 
-__Gesamte Zeit ca. 76.25 Stunde(n)__
+__Zeit ca. 6.25 Stunde(n)__
+
+__Gesamte Zeit ca. 78.25 Stunde(n)__
