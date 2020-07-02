@@ -133,8 +133,11 @@ __29.06.2020 - 05.07.2020__
 | ---------- | ------------------------------------------------------------ | ----- | ------ |
 | 29.06.2020 | Arbeiten am css. Arbeiten am gRPC Client und absprechen der Verbindung zwischen Resttungsdienst und Krankenhasu mit Patrick Poppe. Durschauen aller Praesentationen und Ausarebitungen, ob Bilder korrekt angezeigt werden. | 3.5h  |        |
 | 29.06.2020 | Weiterarbeiten mit Patrick Poppe an der Verbindung zwischen Krankenhaus und Rettungsdiesnst. Dies gestalltete sich langwierig, da immer wieder auf das abschließen von deploy schritten gewartet werden musste | 2h    |        |
+| 30.06.2020 | Teambesprechung                                              | 1.5h  |        |
+| 01.07.2020 | Grundlegende besprechnung der User Storie mit Patrick Poppe und Malte Riechmann. Teambesprechung. Besprechung mit Tim Meier zum vorstellen von github actions. |       |        |
+| 02.07.2020 | Proben der User Story mit Malte, Patrick und Alex            | 2h    |        |
 
 
 
-__Gesamte Zeit ca 98.25 Stunden__ 
+__Gesamte Zeit ca 101.75 Stunden__ 
 
