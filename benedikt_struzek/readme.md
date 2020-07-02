@@ -168,4 +168,4 @@ __29.06.2020 - 02.07.2020__
 |       |                               |        |                                  |
 |       | SSL Proxy                     | 06:00h | ca. 12-18h, 9h schon eingetragen |
 
-__Gesamte Zeit ca. 151:00 Stunden__ 
+__Gesamte Zeit ca. 142:00 Stunden__ 
