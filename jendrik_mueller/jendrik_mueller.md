@@ -111,12 +111,30 @@ __15.06.2020 - 21.06.2020__
 
 ## Woche 9
 
-__15.06.2020 - 21.06.2020__
+__22.06.2020 - 28.06.2020__
+
+| Datum         | Tätigkeit                                                    | Dauer | Zusatz |
+| ------------- | ------------------------------------------------------------ | ----- | ------ |
+| 22.06.2020    | Weitere Recherche zum Thema Blockchain und arbeiten an der Präsentation | 3h    |        |
+| 23.06.2020    | Proben der Präsentation                                      | 1.5h  |        |
+| 23.06.2020    | Teambesprechnung                                             | 1.5h  |        |
+| 24.06.2020    | Verbinden des backend mit der datenbank und arbeiten am einrichten der Tabellen | 3.5h  |        |
+| 25.06.2020    | Korrektur der Ausarbeitung und der Präsentation. Proben der Präsentation | 3h    |        |
+| 25.06.2020    | Estellen weiterer Routen mit verbindung zur Datenbank, sowie anpassung bestehender Routen, sodass diese ebenfalls daten aus der Datenbank verwendeten. Erweitern des Frontend und verwendung der neu eingerichteten Routen im Frontend. Arbeuten am deployen der Datenbank | 5.5h  |        |
+| 26/27.06.2020 | Suche nach dem grund warum das backend sich nachd em deployen nicht mit der Datenbak verbindet. Dabei Hilfe von Alexander Bergmann, allerdings kann dieser auch keinen Fehler finden. | 1.5   |        |
+| 28.06.2020    | Erstellen der funktionalität ohne datenbank, sodass notfalls auf diese zurückgegriffen werden kann. Anpassen der Spezifikation. Kleinere Anpassungen im frontend. | 1.75  |        |
+| 28.06.2020    | Teambesprechnung, Anpassen des Routing in angular, hinzufügen von Patienten über gRPC | 1h    |        |
+
+## Woche 10
+
+__29.06.2020 - 05.07.2020__
 
 | Datum      | Tätigkeit                                                    | Dauer | Zusatz |
 | ---------- | ------------------------------------------------------------ | ----- | ------ |
-| 22.06.2020 | Weitere Recherche zum Thema Blockchain und arbeiten an der Präsentation | 3h    |        |
-| 23.06.2020 | Proben der Präsentation                                      | 1.5h  |        |
+| 29.06.2020 | Arbeiten am css. Arbeiten am gRPC Client und absprechen der Verbindung zwischen Resttungsdienst und Krankenhasu mit Patrick Poppe. Durschauen aller Praesentationen und Ausarebitungen, ob Bilder korrekt angezeigt werden. | 3.5h  |        |
+| 29.06.2020 | Weiterarbeiten mit Patrick Poppe an der Verbindung zwischen Krankenhaus und Rettungsdiesnst. Dies gestalltete sich langwierig, da immer wieder auf das abschließen von deploy schritten gewartet werden musste | 2h    |        |
 
-__Gesamte Zeit ca 75.00 Stunden__ 
+
+
+__Gesamte Zeit ca 98.25 Stunden__ 
 
