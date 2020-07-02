@@ -155,25 +155,32 @@
 
 22.06. - 28.06.2020
 
-| Datum  | Tätigkeit       | Dauer | Zusatz |
-| ------ | --------------- | ----- | ------ |
-| 23.06. | Präsentation    | 1,5 h |        |
-| 24.06. | Gruppen-Meeting | 1,5 h |        |
-| 25.06. | Präsentation    | 1,5 h |        |
-|        |                 |       |        |
+| Datum           | Tätigkeit                     | Dauer | Zusatz                      |
+| --------------- | ----------------------------- | ----- | --------------------------- |
+| 23.06.          | Präsentation                  | 1,5 h |                             |
+| 24.06.          | Gruppen-Meeting               | 1,5 h |                             |
+| 25.06.          | Präsentation                  | 1,5 h |                             |
+| 26.06. - 28.06. | Bug-Fixing, Logs auslese, ... | 3 h   |                             |
+| 27.06.          | Arbeit am MS                  | 4,5 h | Reduzieren des Datenmodells |
+| 28.06.          | Gruppen-Meeting               | 1 h   |                             |
+|                 |                               | 13 h  |                             |
 
 ## Woche 11
 
 29.06. - 05.07.2020
 
-| Datum | Tätigkeit | Dauer | Zusatz |
-| ----- | --------- | ----- | ------ |
-|       |           |       |        |
-|       |           |       |        |
-|       |           |       |        |
-|       |           |       |        |
+| Datum  | Tätigkeit       | Dauer | Zusatz                      |
+| ------ | --------------- | ----- | --------------------------- |
+| 29.06. | Arbeit am MS    | 5 h   | Optik und Usecase Umsetzung |
+| 29.06. | Präsentation    | 1,5 h |                             |
+| 30.06. | Arbeit am MS    | 5 h   |                             |
+| 30.06. | Gruppen-Meeting | 1,5 h |                             |
+| 01.07. | Arbeit am MS    | 6 h   |                             |
+| 02.02  | Arbeit am MS    | 4 h   |                             |
+| 02.07. | Projektabgabe   | 2 h   |                             |
+|        |                 | 25 h  |                             |
 
 
 
-__Gesamte Zeit ca X Stunden__ 
+__Gesamte Zeit ca 187,5 Stunden__
 

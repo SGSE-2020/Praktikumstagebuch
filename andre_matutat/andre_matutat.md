@@ -148,10 +148,72 @@ __08.06.2020 - 14.06.2020__
 | 14.06 | Username und Adresse bei Bestellungen und Reviews anzeigen |1h|Name und Adresse sind noch Dummy Daten aus den Backend, muss ersetzt werden durch die Daten vom grpc User des Bürgerbüros.|
 | 14.06 | fix bug in myOrder request |1h||
 | 14.06 | DB wird jetzt vollständig im Backend erstellt. Dockerfile für DB fällt weg |1h||
+| 14.06 | Login Daten werden jetzt an das Bürgerbüro geschickt, um das Firebasetoken zu erhalten. |0.5h||
 
-Gesamt Woche:  35.5h 
+Gesamt Woche:  36h 
 
-__Gesamte Zeit __
 
-__ tbd Stunden__ 
+## Woche 9 
+
+__15.06.2020 - 21.06.2020__
+
+| Datum | Tätigkeit                                                    | Dauer | Zusatz                                                       |
+| ----- | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
+| 15.06 | Bug gefixed durch den die Artikelübersicht nicht geöffnet wurden, wenn die Serachbar benutzt wurde. | 0.5h  |                                                              |
+| 15.06 | POST Requests im Frontend eingebunden                        | 4h    |                                                              |
+| 16.06 | Auf HTTPS umgestellt                                         | 1h    |                                                              |
+| 18.06 | Überblick über ToDos verschafft, prioritäten gesetzt und entsprechend per GitHub Issues dokumentiert | 2h    | Fokus wir auf die Einbindung von Grpc Client und RabbitMQ gesetzt. Zweite Priorität liegt dann in besserer Fehlerbehandlung und Loging im Backend. Niedrigste Priorität haben Fleißarbeiten wie optimieren von Features, optimieren des UI sowie Security issues. |
+| 21.06 | Fix bug in GRPC makeOrder                                    | 1h    |                                                              |
+
+Gesamt Woche:  8.5h
+
+## Woche 10
+
+__22.06.2020 - 28.06.2020__
+
+| Datum | Tätigkeit                                       | Dauer | Zusatz                                                       |
+| ----- | ----------------------------------------------- | ----- | ------------------------------------------------------------ |
+| 23.06 | Refactoring Backend                             | 4h    | Auslagern von DB abfragen. Ungebrauchte Routen entfernt. Hinzufügen von Documentation. |
+| 23.06 | Implementierung von Fehlerbehandlung im Backend | 1h    |                                                              |
+| 23.06 | Team Meating                                    | 1.5h  |                                                              |
+| 28.06 | Smaller Changes                                 | 1h    |                                                              |
+| 28.06 | Team Metating                                   | 1.5h  |                                                              |
+| 28.06 | Implement Login with Future                     | 2h    | Noch nicht Final getestet, da Service unerreichbar           |
+| 28.06 | Fix Service mit Benedikt                        | 2h    | Fehler im Proxy                                              |
+| 29.06 | Kleinere Fehler beim Login behoben              | 2h    | Kamen überwiegend durch den wechsel zu richtigen UserIDs zu stande. |
+
+
+Gesamt Woche:  16h
+
+## Woche 11
+
+__29.06.2020 - 02.07.2020__
+
+| Datum | Tätigkeit                                              | Dauer | Zusatz |
+| ----- | ------------------------------------------------------ | ----- | ------ |
+| 29.06 | Fix Bugs in Frontend jsons und beim parsen von jsons   | 2h    |        |
+| 29.06 | Username wird jetzt bei Review und allOrders angezeigt | 1h    |        |
+| 29.06 | Fehler bei der Aktualisierung von Treupunkte behoben   | 0.5h  |        |
+| 29.06 | Kleinere UI Änderungen                                       | 1h |        |
+| 29.06 | Fix Login bugs                                               | 2h |        |
+| 29.06 | ISBN als Secret angelegt und integriert (noch buggy)         | 0.5h |        |
+| 29.06 | Bank Verbindung implementiert (noch nicht in grpc) (noch buggy) | 1h    |        |
+| 30.06 | Berechnung der Summe ins Backend verlagert (noch nicht in grpc) | 0.5h  ||
+| 30.06 | Bankverbindung fertiggestellt |2.5h|Finaler Test fehlt noch, da Bank noch mit Dummydaten arbeitet|
+| 30.06 | Team Meeting |1.5h||
+| 01.07 | Spezifikation angepasst |0.5h||
+|01.07|Präsentations Vorbereitung|1h||
+|01.07|Funktionalitäten üperprüft|0.5h||
+| 01.07 | Story Vorstellung Besprechung                                | 2h    |                                                              |
+|01.07|Präsentation Besprechung|1h||
+|01.07|Präsentation überarbeitet|0.5h||
+|01.07|Probleme mit der Bankverbindung gefixed|2h|Teilweise falsche Rückgabewerte erhalten, Teilweise falsche Werte übergeben|
+|01.07|Service für Präsentation vorbereitet|0.5h|Dummy Daten gelöscht, Artikel erstellt etc.|
+|01.07|RabbitMQ eingebaut|2h|Dummydaten als prove of concept. Nachricht kann gesendet und empfangen werden. Richtige Funktionalität noch nicht implementiert.|
+|02.07|Generalprobe|1h||
+
+
+Gesamt Woche:  21.5h
+
+__Gesamte Zeit __: ca. 160 Stunden
 

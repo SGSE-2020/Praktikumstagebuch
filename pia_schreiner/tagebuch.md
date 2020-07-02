@@ -150,8 +150,6 @@ __22.06.2020 - 28.06.2020__
 
 
 
-
-
 ## Woche 11
 
 __29.06.2020 - 02.07.2020__
@@ -160,7 +158,12 @@ __29.06.2020 - 02.07.2020__
 | ---------- | ------------------------------------------------------------ | ----- |
 | 30.06.2020 | Teamabsprache - Gesamtteam                                   | 1 h   |
 | 30.06.2020 | Implementieren des Consumer Services für die Queue des Rettungsdienstes | 2 h   |
+| 30.06.2020 | Einfügen der Authentifizierungsthemen und Vorstellung Bürgerbüro in Softwaredemo Präsentation | 2 h   |
+| 01.07.2020 | Besprechung Use Case für Software Demo                       | 0,5 h |
+| 01.07.2020 | Fixen von letzten Bugs, Refactoring, Datenvorbereitung       | 1 h   |
+| 01.07.2020 | Durchsprache der Softwarepräsentation mit dem Gesamtteam     | 1 h   |
+| 01.07.2020 | Generalprobe Softwarepräsentation                            | 2 h   |
 
 
 
-__Gesamte Zeit 92,5 Stunden__ 
+__Gesamte Zeit 100 Stunden__ 
