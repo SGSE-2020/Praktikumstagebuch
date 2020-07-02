@@ -130,7 +130,22 @@ __22.06.2020 - 28.06.2020__
 | 22.06 | MenuComponent im Frontend eingefügt und Query Param beim restaurant Pfad | 2:00h |        |
 | 23.06 | Teambesprechung                                              | 1:00h |        |
 | 23.06 | Order Seite hinzugefügt                                      | 3:30h |        |
+| 26.06 | Frontend Order und Reservation Seite                         | 2:00h |        |
 
-Wöchentliche Zeit: 5:30 Stunden
+Wöchentliche Zeit: 7:30 Stunden
 
-__Gesamte Zeit ca 71:00 Stunden__ 
+## Woche 11 
+
+__29.06.2020 - 05.07.2020__
+
+| Datum | Tätigkeit                                                    | Dauer | Zusatz |
+| ----- | ------------------------------------------------------------ | ----- | ------ |
+| 30.06 | Teambesprechung                                              | 1:00h |        |
+| 30.06 | Arbeiten an Frontend und Backend                             | 5:00h |        |
+| 01.07 | Fertigstellen und Fixen von Order und Reservate und Präsentation | 5:00h |        |
+| 01.07 | Teambesprechung                                              | 1:00h |        |
+| 02.07 | Präsentationsvorbereitung und Spezifikation anpassen         | 2:30h |        |
+
+Wöchentliche Zeit: 14:30 Stunden
+
+__Gesamte Zeit ca 87:30 Stunden__ 
