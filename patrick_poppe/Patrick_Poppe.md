@@ -102,4 +102,45 @@ __08.06.2020 - 14.06.2020__
 | 14.06.2020 | Einbindung MongoDB lokal                                 | 3h    |                         |
 | 14.06.2020 | Dockerisierung von MongoDB                               | 1,5h  | funktioniert noch nicht |
 
-Gesamte Zeit ca. 73,5 Stunden__ 
+## Woche 9
+
+__15.06.2020 - 21.06.2020__
+
+| Datum      | Tätigkeit              | Dauer | Zusatz |
+| ---------- | ---------------------- | ----- | ------ |
+| 15.06.2020 | Gruppenmeeting         | 1h    |        |
+| 19.06.2020 | Dockerisierung MongoDB | 2,5h  |        |
+| 19.06.2020 | Login umgesetzt        | 1,5h  |        |
+| 20.06.2020 | gRPC-Verbindung Login  | 0,5h  |        |
+
+## Woche 10
+
+__22.06.2020 - 28.06.2020__
+
+| Datum      | Tätigkeit                                 | Dauer | Zusatz |
+| ---------- | ----------------------------------------- | ----- | ------ |
+| 23.06.2020 | Gruppenmeeting                            | 1,5h  |        |
+| 27.06.2020 | Umbauarbeiten Backend                     | 4,5h  |        |
+| 28.06.2020 | Kommunikation zwischen Sockets verbessert | 3,5h  |        |
+| 28.06.2020 | Gruppenmeeting                            | 1h    |        |
+
+
+
+## Woche 11
+
+__29.06.2020 - 02.07.2020__
+
+| Datum      | Tätigkeit                   | Dauer | Zusatz |
+| ---------- | --------------------------- | ----- | ------ |
+| 29.06.2020 | gRPC mit Krankenhaus        | 4h    |        |
+| 29.06.2020 | Vorbereitungen Präsentation | 1,5h  |        |
+| 29.06.2020 | Publishen RabbitMQ          | 2,5h  |        |
+| 30.06.2020 | Subscriben RabbitMQ         | 1,5h  |        |
+| 30.06.2020 | gRPC an Hausarzt            | 0,5h  |        |
+| 30.06.2020 | Gruppenmeeting              | 1,5h  |        |
+| 01.07.2020 | Userverwaltung              | 4h    |        |
+| 01.07.2020 | Debugging kleinerer Fehler  | 1h    |        |
+| 01.07.2020 | Gruppenmeeting              | 1h    |        |
+| 02.07.2020 | Vorbereitung Präsentation   | 5h    |        |
+
+__Gesamte Zeit ca. 112 Stunden__ 
