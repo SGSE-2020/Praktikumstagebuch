@@ -67,14 +67,70 @@ __18.05.2020 - 24.05.2020__
 
 Wöchentliche Zeit: 8:30 Stunden
 
-## Woche 5 
+## Woche 6 
 
 __25.05.2020 - 31.05.2020__
 
-| Datum | Tätigkeit  | Dauer | Zusatz |
-| ----- | ---------- | ----- | ------ |
-| 25.05 | CI und GKE | 3:00h |        |
+| Datum | Tätigkeit                            | Dauer | Zusatz |
+| ----- | ------------------------------------ | ----- | ------ |
+| 25.05 | CI und GKE                           | 3:00h |        |
+| 26.05 | Teambesprechung                      | 0:30h |        |
+| 28.05 | gRPC Route und Firebase eingerichtet | 2:00h |        |
 
-Wöchentliche Zeit: 3:00 Stunden
+Wöchentliche Zeit: 5:30 Stunden
 
-__Gesamte Zeit ca 29:00 Stunden__ 
+## Woche 7
+
+__01.06.2020 - 07.06.2020__
+
+| Datum | Tätigkeit                                                    | Dauer | Zusatz |
+| ----- | ------------------------------------------------------------ | ----- | ------ |
+| 01.06 | Kubernetes: Kommunikation zwischen Pods und Ingress austesten | 1:30h |        |
+| 02.06 | Kubernetes und CI                                            | 2:30h |        |
+| 04.06 | Kubernetes Ingress versuchen einzurichten                    | 2:30h |        |
+| 04.06 | Arbeiten an Frontend                                         | 1:30h |        |
+| 05.06 | Kubernetes einrichten mittlerweile ohne Ingress              | 5:30h |        |
+| 05.06 | Besprechung                                                  | 0:30h |        |
+| 06.06 | Arbeiten am Frontend                                         | 3:30h |        |
+| 07.06 | Frontend und bei Deployment Problemen helfen                 | 4:00h |        |
+
+Wöchentliche Zeit: 21:30 Stunden
+
+## Woche 8
+
+__08.06.2020 - 14.06.2020__
+
+| Datum | Tätigkeit                                             | Dauer | Zusatz |
+| ----- | ----------------------------------------------------- | ----- | ------ |
+| 08.06 | Kubernetes mit Datenbank und Persistence ausprobieren | 2:00h |        |
+| 09.06 | Kubernetes Persistence einrichten                     | 2:30h |        |
+| 09.06 | Teambesprechung                                       | 0:30h |        |
+
+Wöchentliche Zeit: 5:00 Stunden
+
+## Woche 9 
+
+__15.06.2020 - 21.06.2020__
+
+| Datum | Tätigkeit                                                  | Dauer | Zusatz |
+| ----- | ---------------------------------------------------------- | ----- | ------ |
+| 15.06 | Datenbank einbinden und Aufgaben im Backend                | 2:00h |        |
+| 16.06 | Von http zu https wechseln                                 | 1:00h |        |
+| 16.06 | Teambesprechung                                            | 0:30h |        |
+| 20.06 | Login Fix und Verifizierung und Backend User Verifizierung | 4:00h |        |
+
+Wöchentliche Zeit: 6:30 Stunden
+
+## Woche 10 
+
+__22.06.2020 - 28.06.2020__
+
+| Datum | Tätigkeit                                                    | Dauer | Zusatz |
+| ----- | ------------------------------------------------------------ | ----- | ------ |
+| 22.06 | MenuComponent im Frontend eingefügt und Query Param beim restaurant Pfad | 2:00h |        |
+| 23.06 | Teambesprechung                                              | 1:00h |        |
+| 23.06 | Order Seite hinzugefügt                                      | 3:30h |        |
+
+Wöchentliche Zeit: 5:30 Stunden
+
+__Gesamte Zeit ca 71:00 Stunden__ 

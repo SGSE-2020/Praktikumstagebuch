@@ -92,8 +92,84 @@
 
 25.05. - 31.05.2020
 
+| Datum  | Tätigkeit                        | Dauer | Zusatz                                         |
+| ------ | -------------------------------- | ----- | ---------------------------------------------- |
+| 25.05. | Infrastruktur+CI/CD Team Meeting | 3 h   | Ein Micro Service Kubernetisiert (**success**) |
+| 25.05. | Präsentation                     | 1,5 h |                                                |
+| 26.05. | Gruppen-Meeting                  | 1 h   |                                                |
+| 26.05. | Ausarbeitung v1                  | 3 h   | Gliederung Fertig und erste Inhalte            |
+| 28.05. | Ausarbeitung Inhalt              | 4 h   |                                                |
+| 29.05. | Ausarbeitung Inhalt              | 3 h   |                                                |
+| 30.05. | Ausarbeitung Inhalt              | 2,5 h |                                                |
+|        |                                  | 18 h  |                                                |
+
+## Woche 7
+
+01.06. - 07.06.2020
+
+| Datum  | Tätigkeit                                  | Dauer | Zusatz                                 |
+| ------ | ------------------------------------------ | ----- | -------------------------------------- |
+| 01.06. | Ausarbeitung Präsentation                  | 3 h   |                                        |
+| 02.06. | Infrastruktur+CI/CD Team Meeting           | 2,5 h |                                        |
+| 02.06. | Gruppen-Meeting                            | 1 h   |                                        |
+| 04.06. | Ausarbeitung Präsentation                  | 2 h   |                                        |
+| 04.06. | Infrastruktur-Team Meeting                 | 2,5 h |                                        |
+| 04.06. | Präsentation                               | 1,5 h |                                        |
+| 05.06. | Infrastruktur-Team Meeting                 | 6 h   | Kubernetes MS Kommunikation            |
+| 05.06. | Gruppen-Meeting                            | 0,5 h |                                        |
+| 05.06. | Infrastruktur-Team Meeting                 | 2 h   | Kubernetes MS Kommunikation nach außen |
+| 06.06. | Spezifikation, Mockups, Coding für Projekt | 2 h   |                                        |
+| 07.06. | Ausarbeitung Präsentation                  | 6 h   |                                        |
+|        |                                            | 29 h  |                                        |
+
+## Woche 8
+
+08.06. - 14.06.2020
+
+| Datum  | Tätigkeit                                   | Dauer  | Zusatz                                                       |
+| ------ | ------------------------------------------- | ------ | ------------------------------------------------------------ |
+| 08.06. | Ausarbeitung Präsentation                   | 4 h    |                                                              |
+| 08.06. | Präsentation und Smartcity Zwischenergebnis | 2 h    |                                                              |
+| 09.06. | Infrastruktur-Team Meeting                  | 2 h    | Persistente Laufwerke für die Datenbank erstellen + Datenbank deployment |
+| 09.06. | Gruppen-Meeting                             | 1 h    |                                                              |
+| 09.06. | Microservice delpoyment + Datenbank + Test  | 2 h    |                                                              |
+| 12.06. | Dev Umgebung MicroService anpassen          | 2,5 h  |                                                              |
+|        |                                             | 13,5 h |                                                              |
+
+## Woche 9
+
+15.06. - 21.06.2020
+
+| Datum  | Tätigkeit                                  | Dauer  | Zusatz                                     |
+| ------ | ------------------------------------------ | ------ | ------------------------------------------ |
+| 15.06. | Präsentation                               | 1,5 h  |                                            |
+| 16.06. | Infrastruktur-Team Meeting                 | 2 h    | Smartcity per HTTPS erreichbar machen      |
+| 16.06. | Gruppen-Meeting                            | 1,5 h  |                                            |
+| 16.06. | Arbeit an MicroService                     | 2 h    |                                            |
+| 17.06. | Versuch die gRPC-Verbindung zu realisieren | 5 h    | gRPC mit Go ist die HÖLLE!!!!!**(Failed)** |
+| 18.06. | gRPC Verbindung fehler gefunden            | 3 h    |                                            |
+| 18.06. | Presentation                               | 1,5 h  |                                            |
+|        |                                            | 16,5 h |                                            |
+
+## Woche 10
+
+22.06. - 28.06.2020
+
+| Datum  | Tätigkeit       | Dauer | Zusatz |
+| ------ | --------------- | ----- | ------ |
+| 23.06. | Präsentation    | 1,5 h |        |
+| 24.06. | Gruppen-Meeting | 1,5 h |        |
+| 25.06. | Präsentation    | 1,5 h |        |
+|        |                 |       |        |
+
+## Woche 11
+
+29.06. - 05.07.2020
+
 | Datum | Tätigkeit | Dauer | Zusatz |
 | ----- | --------- | ----- | ------ |
+|       |           |       |        |
+|       |           |       |        |
 |       |           |       |        |
 |       |           |       |        |
 

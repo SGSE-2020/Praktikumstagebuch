@@ -79,5 +79,72 @@ __25.05.2020 - 31.05.2020__
 | 27.05.2020 | Abschluss Containerisierung       | 60  Minuten | Die Arbeiten für die Docker Containerisierung und Docker-Compose erstellung wurden abgeschlossen.                       |
 
 __Zeit ca. 2 Stunde(n)__
+## Woche 7
 
-__Gesamte Zeit ca. 50.5 Stunde(n)__
+__01.06.2020 - 07.06.2020__
+
+| Datum      | Tätigkeit                         | Dauer       | Zusatz                                                                                                                  |
+| ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 02.06.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Es wurden die Ergebnisse des CI-Teams vorgestellt und über das weitere Vorgehen gesprochen.                             |
+| 05.06.2020 | Meeting mit der SGSE-Gruppe       | 30  Minuten | Es wurde über Probleme und ausstehende Arbeiten gesprochen.                                                             |
+| 05.06.2020 | Deployment des Microservices      | 90  Minuten | Die durch das CI-Team bereitgestellte vorlage wurde angepasst und damit das Projekt bereitgestellt.                     |
+| 05.06.2020 | Logo für zentrales Portal         | 60  Minuten | Das bestehende Projekt-Logo wurde für das zentrale Portal angepasst und den vorgaben nach aktualisiert.                 |
+| 06.06.2020 | Entwicklung von Tests             | 120 Minuten | Für das Frontend wurden testfälle entwickelt und ein Node workflow eingerichtet.                                        |
+
+__Zeit ca. 6 Stunde(n)__
+## Woche 8
+
+__08.06.2020 - 14.06.2020__
+
+| Datum      | Tätigkeit                         | Dauer       | Zusatz                                                                                                                  |
+| ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 09.06.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Der Fortschritt aller Services wurde individuell besprochen und von allen Teilnehmern vorgetragen.                      |
+| 09.06.2020 | Hinzufügen von Dependabot         | 60  Minuten | Dependabot wurde dem Parkplatz Repository hinzugefügt um die Technologie statische Dependency-Analyse kennen zu lernen. | 
+| 14.06.2020 | Hinzufügen von Hadolint Workflow  | 60  Minuten | Hadolint für die Dockerfile validierung wurde hinzugefügt, um die Arbeit mit GitHub Workflows zu vertiefen.             |  
+| 14.06.2020 | Erstellung RabbitMq Service       | 90  Minuten | Es wurde ein Message Microservice erstellt und in betrieb genommen.                                                     |
+| 14.06.2020 | Einrichtung RabbitMq              | 60  Minuten | Die Exchanges für RabbitMq wurden eingerichtet und der Proxy für die erreichbarkeit von RabbitMq angepasst.             |
+
+__Zeit ca. 5.5 Stunde(n)__
+## Woche 9
+
+__15.06.2020 - 21.06.2020__
+
+| Datum      | Tätigkeit                         | Dauer       | Zusatz                                                                                                                  |
+| ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 16.06.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Wie letzte Woche, wurde der Fortschritt aller Services individuell besprochen und von allen Teilnehmern vorgetragen.    |
+| 20.06.2020 | Neuentwurf Datenbank              | 90  Minuten | Die Datenbank wurde neu entworfen, sodass nicht benötigte Felder und Tabellen entfernt worden sind.                     | 
+| 20.06.2020 | Hinzufügen von Dummy Daten        | 60  Minuten | Die Datenbank wurde hinreichend über ein erstelltes Skript mit Test-Daten/Dummy-Daten gefüllt.                          |
+| 20.06.2020 | Integration von Redis             | 90  Minuten | Nach einer Recherche konnte Redis an Type-ORM angeschlossen werden, sodass Redis als 30 Sekunden Cache verwendet wird.  |  
+
+__Zeit ca. 5 Stunde(n)__
+## Woche 10
+
+__22.06.2020 - 28.06.2020__
+
+| Datum      | Tätigkeit                         | Dauer       | Zusatz                                                                                                                  |
+| ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 23.06.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Es wurde über Probleme bezüglich der Kommunikation mit Messaging und über mögliche Lösungen gesprochen.                 |
+| 27.06.2020 | Behebung Messaging Probleme       | 60  Minuten | Das Messaging Problem wurde behoben, sodass es lediglich Probleme durch Verbindungen von Klienten gab.                  |
+| 27.06.2020 | Implementierung Messaging         | 60  Minuten | Die benachrichtigung durch Messages für Ereignisse innerhalb des Services wurde implementiert.                          | 
+| 28.06.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Das Vorgehen und offene Fragen für die Softwarepräesentation am 02.07.2020 wurden besprochen.                           |
+| 28.06.2020 | Entwicklung Api gRPC-Auslastung   | 60  Minuten | Die Abfrage der Auslastung individueller Parkflächen über gRPC wurde ermöglicht.                                        | 
+
+__Zeit ca. 5 Stunde(n)__
+## Woche 11
+
+__29.06.2020 - 02.07.2020__
+
+| Datum      | Tätigkeit                         | Dauer       | Zusatz                                                                                                                  |
+| ---------- | --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 29.06.2020 | Einrichtung übriger gRPC Methoden | 60  Minuten | Die verbliebenen gRPC Methoden wurden implementiert, sodass alle äußeren Schnittstellen realisiert wurden.              |
+| 29.06.2020 | Anpassung gRPC package für ÖPNV   | 15  Minuten | Damit der ÖPNV-Service die erstellte gRPC Schnittstelle verwenden kann musste das gRPC-Package umbenannt werden.        | 
+| 30.06.2020 | API-Report und Messaging          | 90  Minuten | Die verbliebenen internen Schnittstellen für das Melden von Falschparkern sowie Messaging realisiert.                   |
+| 30.06.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Probleme mit gRPC wurden besprochen und die Präsentation vorgestellt                                                    | 
+| 30.06.2020 | Problemfindung gRPC               | 30  Minuten | Probleme mit dem gRPC Server wurden behoben, sodass weitere Microservices mit dem Server kommunizieren können.          | 
+| 01.07.2020 | Reservierung mist Restaurant      | 60  Minuten | Die Kommunikation mit der Bank und dem Restaurant wurde hergestellt.                                                    | 
+| 01.07.2020 | Meeting mit der SGSE-Gruppe       | 60  Minuten | Das Vorgehen und offene Fragen für die Softwarepräesentation am 02.07.2020 wurde erneut besprochen.                     |
+
+
+__Zeit ca. 6.25 Stunde(n)__
+
+__Gesamte Zeit ca. 78.25 Stunde(n)__
