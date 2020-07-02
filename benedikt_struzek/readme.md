@@ -131,15 +131,41 @@ __22.06.2020 - 28.06.2020__
 |       |                            |        |        |
 | 25.06 | Smaller changes            | 02:00h |        |
 | 25.06 | Server Crashes fixed       | 01:00h |        |
+|       |                            |        |        |
+| 26.06 | RabbitMQ Messaging added   | 02:00h |        |
+|       |                            |        |        |
+| 27.06 | Logging to DB              | 01:00h |        |
+| 27.06 | Message Logging            | 03:00h |        |
+|       |                            |        |        |
+| 28.06 | Frontend Forms updated     | 02:00h |        |
+| 28.06 | Nav Drawer upgrade         | 01:00h |        |
 
+## Woche 11
 
-## Woche n
+__29.06.2020 - 02.07.2020__
 
-__DD.MM.JJJJ - DD.MM.JJJJ__
+| Datum | Tätigkeit                     | Dauer  | Zusatz                           |
+|-------|-------------------------------|--------|----------------------------------|
+| 29.06 | Color & PWA upgade            | 04:00h |                                  |
+|       |                               |        |                                  |
+| 30.06 | gRPC Service                  | 03:00h |                                  |
+| 30.06 | gRPC Debug UI                 | 02:00h |                                  |
+| 30.06 | Allgemeine Teambesprechung    | 01:30h |                                  |
+|       |                               |        |                                  |
+| 01.07 | More gRPC Functions           | 02:00h |                                  |
+| 01.07 | Reset DB update               | 01:00h |                                  |
+| 01.07 | More Logging                  | 01:00h |                                  |
+| 01.07 | Own Account Details shown     | 01:00h |                                  |
+| 01.07 | Confirm Dialog updates        | 03:00h |                                  |
+| 01.07 | Bank gRPC Call added          | 03:00h |                                  |
+| 01.07 | NPM Test in Dockerfile        | 01:00h |                                  |
+| 01.07 | puplish Message               | 00:30h |                                  |
+| 01.07 | Smaller Changes and Logs      | 01:00h |                                  |
+|       |                               |        |                                  |
+| 02.07 | gRPC Debugging & Announcement | 02:00h |                                  |
+| 02.07 | From input checks             | 03:00h |                                  |
+| 02.07 | Spezification Update          | 01:00h |                                  |
+|       |                               |        |                                  |
+|       | SSL Proxy                     | 06:00h | ca. 12-18h, 9h schon eingetragen |
 
-| Datum | Tätigkeit | Dauer | Zusatz |
-|-------|-----------|-------|--------|
-|       |           |       |        |
-
-
-__Gesamte Zeit ca. 97:00 Stunden__ 
+__Gesamte Zeit ca. 151:00 Stunden__ 
