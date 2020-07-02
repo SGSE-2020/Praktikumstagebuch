@@ -133,8 +133,9 @@ __29.06.2020 - 06.07.2020__
 | 30.06.2020 | diverses                       | 7.0h  |        |
 | 01.07.2020 | User Stories besprechen        | 2.0h  |        |
 | 01.07.2020 | diverses                       | 4.5h  |        |
-|            | Wochenstunden + Gesamt(Zusatz) | 15.0h | 93h    |
+| 02.07.2020 | auf praesi vorbereiten         | 2.0h  |        |
+|            | Wochenstunden + Gesamt(Zusatz) | 17.0h | 95h    |
 
 
 
-__Gesamte Zeit ca. 93 Stunden__ 
+__Gesamte Zeit ca. 95 Stunden__ 
